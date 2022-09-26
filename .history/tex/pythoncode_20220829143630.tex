@@ -1,0 +1,23 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\def\pyvar#1{\csname pythonvar@#1\endcsname}
+\begin{pycode}
+    from numbers import Number
+    def exposeNumericGlobals():
+    res = r'\makeatletter '
+
+    d = globals()
+    for key in d.keys():
+    val = d[key]
+    if isinstance(val, Number):
+    res = res + (r'\gdef\pythonvar@%s{%s} ' % (key, val))
+
+    res = res + r'\makeatother'
+    return res
+\end{pycode}
+\AtBeginDocument{\py{exposeNumericGlobals()}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{pycode}
+    from numpy import *
+    coeffA = 7
+    coeffB = sqrt(coeffA)
+\end{pycode}

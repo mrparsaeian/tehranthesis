@@ -1,0 +1,69 @@
+{
+	"files": [
+		{
+			"path": "tex/chapter3.tex",
+			"bookmarks": [
+				{
+					"line": 126,
+					"column": 12,
+					"label": "تعریف نظری متغیر SVO"
+				},
+				{
+					"line": 223,
+					"column": 4,
+					"label": "تعریف نظری متغیر رفتار به اشتراک گذاری اطلاعات خصوصی دیگران"
+				},
+				{
+					"line": 244,
+					"column": 0,
+					"label": "Dark triad variable def theoretical"
+				},
+				{
+					"line": 308,
+					"column": 0,
+					"label": "Dark triad practical definition"
+				},
+				{
+					"line": 418,
+					"column": 0,
+					"label": "QOL theoretical definiton"
+				},
+				{
+					"line": 439,
+					"column": 0,
+					"label": "QOL variable parctical definition"
+				}
+			]
+		},
+		{
+			"path": "tex/chapter5.tex",
+			"bookmarks": [
+				{
+					"line": 7,
+					"column": 0,
+					"label": "Dark triad discussion"
+				},
+				{
+					"line": 42,
+					"column": 0,
+					"label": "SVO discussion"
+				},
+				{
+					"line": 49,
+					"column": 0,
+					"label": "QOL discussion"
+				}
+			]
+		},
+		{
+			"path": "tex/chapter1.tex",
+			"bookmarks": [
+				{
+					"line": 164,
+					"column": 7,
+					"label": "theory of planned behavior"
+				}
+			]
+		}
+	]
+}

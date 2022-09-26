@@ -1,0 +1,16 @@
+SampleSizeFemale 100
+SampleSizeMale 82
+SampleSizeSexualityNoAnswer 2
+CleanedSampleSize 184
+sampleAgeMean: 27.52
+sampleAgeMeanFemale: 27.19
+sampleAgeMeanFemale: 27.81
+sampleAgeSDFemale: 8.21
+sampleAgeSDMale: 7.58
+sampleAgeSD: 7.93
+ageMax: 54.0
+ageMin: 18.0
+ageMaxFemale: 54.0
+ageMinFemale: 18.0
+ageMaxMale: 51.0
+ageMinMale: 18.0

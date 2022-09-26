@@ -1,0 +1,22 @@
+{
+  "name": "tehran-thesis-master",
+  "version": "1.0.0",
+  "description": "LaTeX template for MSc/BSc/PhD theses of University of Tehran. <div dir=rtl>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrparsaeian/tehran-thesis-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrparsaeian/tehran-thesis-master/issues"
+  },
+  "homepage": "https://github.com/mrparsaeian/tehran-thesis-master#readme",
+  "dependencies": {
+    "json2csv": "^5.0.7"
+  }
+}

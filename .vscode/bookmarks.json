@@ -1,0 +1,114 @@
+{
+	"files": [
+		{
+			"path": "tex/chapter3.tex",
+			"bookmarks": [
+				{
+					"line": 10,
+					"column": 12,
+					"label": "تعریف نظری و عملیاتی مشخصات دموگرافیک"
+				},
+				{
+					"line": 17,
+					"column": 37,
+					"label": "تعریف عملیاتی پارامترهای    % نظریه رفتار برنامه ریزی شده    "
+				},
+				{
+					"line": 160,
+					"column": 12,
+					"label": "تعریف نظری متغیر جهت‌گیری ارزش اجتماعی"
+				},
+				{
+					"line": 298,
+					"column": 12,
+					"label": "تعریف عملیاتی متغیر جهت‌گیری ارزش اجتماعی"
+				},
+				{
+					"line": 452,
+					"column": 12,
+					"label": "تعریف نظری متغیر تصمیم گیری به اشتراک گذاری اطلاعات خصوصی دیگران"
+				},
+				{
+					"line": 501,
+					"column": 12,
+					"label": "تعریف نظری متغیر سه‌گانه تاریک"
+				},
+				{
+					"line": 565,
+					"column": 8,
+					"label": "تعریف عملیاتی سه گانه تاریک"
+				},
+				{
+					"line": 674,
+					"column": 12,
+					"label": "تعریف نظری شاخص کیفیت زندگی"
+				},
+				{
+					"line": 699,
+					"column": 12,
+					"label": "تعریف عملیاتی شاخص کیفیت زندگ"
+				},
+				{
+					"line": 709,
+					"column": 12,
+					"label": "تعریف نظری خودافشاگری"
+				},
+				{
+					"line": 722,
+					"column": 12,
+					"label": "تعریف عملیاتی خودافشاگری"
+				},
+				{
+					"line": 756,
+					"column": 12,
+					"label": "جامعه آماری و روش نمونه‌گیری"
+				},
+				{
+					"line": 762,
+					"column": 12,
+					"label": "روش اجرا و مراحل آزمایش"
+				}
+			]
+		},
+		{
+			"path": "tex/chapter5.tex",
+			"bookmarks": [
+				{
+					"line": 7,
+					"column": 0,
+					"label": "Dark triad discussion"
+				},
+				{
+					"line": 46,
+					"column": 0,
+					"label": "SVO discussion"
+				},
+				{
+					"line": 53,
+					"column": 0,
+					"label": "QOL discussion"
+				}
+			]
+		},
+		{
+			"path": "tex/chapter1.tex",
+			"bookmarks": [
+				{
+					"line": 557,
+					"column": 7,
+					"label": "theory of planned behavior"
+				}
+			]
+		},
+		{
+			"path": "jinja2/doIt.ipynb",
+			"bookmarks": [
+				{
+					"line": 73,
+					"column": 0,
+					"label": "with open(\"../jinja2/KeysShort.pickle\", \"rb\") as f:"
+				}
+			]
+		}
+	]
+}

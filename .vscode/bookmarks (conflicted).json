@@ -1,0 +1,104 @@
+{
+	"files": [
+		{
+			"path": "tex/chapter3.tex",
+			"bookmarks": [
+				{
+					"line": 10,
+					"column": 12,
+					"label": "تعریف نظری و عملیاتی مشخصات دموگرافیک"
+				},
+				{
+					"line": 17,
+					"column": 37,
+					"label": "تعریف عملیاتی پارامترهای    % نظریه رفتار برنامه ریزی شده    "
+				},
+				{
+					"line": 160,
+					"column": 12,
+					"label": "تعریف نظری متغیر جهت‌گیری ارزش اجتماعی"
+				},
+				{
+					"line": 298,
+					"column": 12,
+					"label": "تعریف عملیاتی متغیر جهت‌گیری ارزش اجتماعی"
+				},
+				{
+					"line": 397,
+					"column": 12,
+					"label": "تعریف نظری متغیر تصمیم گیری به اشتراک گذاری اطلاعات خصوصی دیگران"
+				},
+				{
+					"line": 416,
+					"column": 12,
+					"label": "تعریف نظری متغیر سه‌گانه تاریک"
+				},
+				{
+					"line": 480,
+					"column": 8,
+					"label": "تعریف عملیاتی سه گانه تاریک"
+				},
+				{
+					"line": 589,
+					"column": 12,
+					"label": "تعریف نظری شاخص کیفیت زندگی"
+				},
+				{
+					"line": 614,
+					"column": 12,
+					"label": "تعریف عملیاتی شاخص کیفیت زندگ"
+				},
+				{
+					"line": 624,
+					"column": 12,
+					"label": "تعریف نظری خودافشاگری"
+				},
+				{
+					"line": 637,
+					"column": 12,
+					"label": "تعریف عملیاتی خودافشاگری"
+				},
+				{
+					"line": 671,
+					"column": 12,
+					"label": "جامعه آماری و روش نمونه‌گیری"
+				},
+				{
+					"line": 677,
+					"column": 12,
+					"label": "روش اجرا و مراحل آزمایش"
+				}
+			]
+		},
+		{
+			"path": "tex/chapter5.tex",
+			"bookmarks": [
+				{
+					"line": 7,
+					"column": 0,
+					"label": "Dark triad discussion"
+				},
+				{
+					"line": 42,
+					"column": 0,
+					"label": "SVO discussion"
+				},
+				{
+					"line": 49,
+					"column": 0,
+					"label": "QOL discussion"
+				}
+			]
+		},
+		{
+			"path": "tex/chapter1.tex",
+			"bookmarks": [
+				{
+					"line": 335,
+					"column": 7,
+					"label": "theory of planned behavior"
+				}
+			]
+		}
+	]
+}

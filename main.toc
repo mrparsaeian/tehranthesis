@@ -1,0 +1,51 @@
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
+\contentsline {subsection}{\numberline {1-0-1}کمبریج آنالیتیکا و استفاده ثانویه از اطلاعات}{5}{subsection.1.0.1}%
+\contentsline {subsection}{\numberline {1-0-2}چارچوب‌های نظری}{6}{subsection.1.0.2}%
+\contentsline {section}{\numberline {1-1}متغیر‌ها و پرسشنامه‌ها}{8}{section.1.1}%
+\contentsline {section}{\numberline {1-2}اهمیت}{9}{section.1.2}%
+\contentsline {section}{\numberline {1-3}فرضیه پژوهشی}{10}{section.1.3}%
+\contentsline {subsection}{\numberline {1-3-1}تعریف واژه‌ها (اختیاری)}{10}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1-3-2}خلاصه فصل‌ها}{10}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1-4}جمع‌بندی}{10}{section.1.4}%
+\contentsline {chapter}{\numberline {2}مروری بر مطالعات انجام شده}{11}{chapter.2}%
+\contentsline {section}{\numberline {2-1}مقدمه}{11}{section.2.1}%
+\contentsline {section}{\numberline {2-2}تعاریف، اصول و مبانی نظری}{11}{section.2.2}%
+\contentsline {chapter}{\numberline {3}روش تحقیق}{13}{chapter.3}%
+\contentsline {section}{\numberline {3-1}نوع پژوهش}{13}{section.3.1}%
+\contentsline {section}{\numberline {3-2}تعریف متغیر‌ها}{13}{section.3.2}%
+\contentsline {subsection}{\numberline {3-2-1}تعریف نظری و عملیاتی مشخصات دموگرافیک}{13}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3-2-2}تعریف عملیاتی پارامترهای \textit {\gls {Theory of planned behavior}} }{13}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3-2-3}تعریف نظری متغیر جهت‌گیری ارزش اجتماعی}{15}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3-2-4}تعریف عملیاتی متغیر جهت‌گیری ارزش اجتماعی}{16}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3-2-5}تعریف عملیاتی }{17}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3-2-6}تعریف نظری متغیر تصمیم گیری به اشتراک گذاری اطلاعات خصوصی دیگران}{17}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3-2-7}تعریف نظری متغیر \textit {هنجار ذهنی } و \textit {باور هنجاری از ارزش اطلاعات} خصوصی دیگران}{18}{subsection.3.2.7}%
+\contentsline {subsection}{\numberline {3-2-8}تعریف عملیاتی متغیر \textit {هنجار ذهنی } و \textit {باور هنجاری از ارزش اطلاعات} خصوصی دیگران}{18}{subsection.3.2.8}%
+\contentsline {subsection}{\numberline {3-2-9}تعریف نظری متغیر سه‌گانه تاریک}{19}{subsection.3.2.9}%
+\contentsline {subsection}{\numberline {3-2-10}تعریف نظری شاخص کیفیت زندگی}{21}{subsection.3.2.10}%
+\contentsline {subsection}{\numberline {3-2-11}تعریف عملیاتی شاخص کیفیت زندگی}{21}{subsection.3.2.11}%
+\contentsline {subsection}{\numberline {3-2-12}تعریف نظری خودافشاگری}{21}{subsection.3.2.12}%
+\contentsline {subsection}{\numberline {3-2-13}تعریف عملیاتی خودافشاگری}{21}{subsection.3.2.13}%
+\contentsline {subsection}{\numberline {3-2-14}جامعه آماری و روش نمونه‌گیری}{21}{subsection.3.2.14}%
+\contentsline {subsection}{\numberline {3-2-15}روش اجرا و مراحل آزمایش}{22}{subsection.3.2.15}%
+\contentsline {chapter}{\numberline {4}نتایج}{23}{chapter.4}%
+\contentsline {subsection}{\numberline {4-0-1}سیاهه ارزش‌گذاری مجموعه‌داده}{23}{subsection.4.0.1}%
+\contentsline {subsection}{\numberline {4-0-2}ویژگی‌های نمونه}{24}{subsection.4.0.2}%
+\contentsline {subsection}{\numberline {4-0-3}نتایج آزمون جهت‌گیری ارزش اجتماعی}{24}{subsection.4.0.3}%
+\contentsline {section}{\numberline {4-1}اعتبارسنجی}{27}{section.4.1}%
+\contentsline {chapter}{\numberline {5}بحث و نتیجه‌گیری}{28}{chapter.5}%
+\contentsline {section}{\numberline {5-1}مقدمه}{28}{section.5.1}%
+\contentsline {subsection}{\numberline {5-1-1}نتایج مربوط به سه‌گانه تاریک}{28}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5-1-2} نتایج مربوط به \lr {SVO} }{29}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5-1-3} نتایج مربوط به کیفیت زندگی }{29}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5-2}محتوا}{29}{section.5.2}%
+\contentsline {subsection}{\numberline {5-2-1}جمع‌بندی}{29}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5-2-2}نوآوری}{29}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5-2-3}پیشنهادها}{29}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5-2-4}محدودیت‌ها}{29}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5-2-5}محدودیت‌های ابزار سنجش نگرش به انواع اطلاعات خصوصی}{30}{subsection.5.2.5}%
+\contentsline {chapter}{مراجع}{31}{chapter*.1}%
+ \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
+\contentsline {chapter}{\numberline {آ}پرسشنامه‌ها}{41}{appendix.Alph1}%
+\contentsline {chapter}{واژه نامه فارسی به انگلیسی}{اول}{figure.Alph1.1}%
+\contentsline {chapter}{واژه نامه انگلیسی به فارسی}{دوم}{figure.Alph1.1}%
