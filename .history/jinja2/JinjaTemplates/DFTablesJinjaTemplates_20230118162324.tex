@@ -1,0 +1,17 @@
+\BLOCK{ for x in range(1, NumebrOfDFTables+1) }
+
+\#{} % ^ \VAR{DFTables[x]["DFTables"]} 
+\newcommand{
+    \\VAR{DFTables[x]["DFTableNameRef"]}
+}[0]{
+	\eqref{tab:\VAR{DFTables[x]["DFTableName"]}}
+}
+\#{} % ^ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\newcommand{
+    \\VAR{DFTables[x]["DFTableName"]}Command
+}[0]{
+	\VAR{DFTables[x]["DFTableValue"]}
+}
+\#{} % ^ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\BLOCK{ endfor }
+

@@ -1,0 +1,50 @@
+
+% ^  
+\newcommand{
+    \CompareDarkTriadStatisticsRef
+}[0]{
+    \eqref{tab:CompareDarkTriadStatisticsCustomTable}
+}
+% ^ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\newcommand{
+    \CompareDarkTriadStatisticsCustomTableCommand
+}[0]{
+
+    \begin{table}
+        \centering
+        \caption{my tavle}\label{tab:scoring}
+        \setlength\tabcolsep{0pt}
+        \begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}
+                l
+                S[table-format=-1.3]
+                *{2}{S[table-format= 1.3]}
+                S[table-format=-1.2]
+                S[table-format=-1.3]
+                    *{2}{S[table-format= 1.3]}
+            }
+            \toprule
+            &   \multicolumn{4}{c}{some text}   &   \multicolumn{3}{c}{some text}   \\
+            \cmidrule(r){2-5}
+            \cmidrule(l){6-8}
+            &   {\thead[b]{text\\ text}}
+            &   {\thead[b]{text}}
+            &   {\thead[b]{text}}
+            &   {\thead[b]{text\\ text}}
+            &   {\thead[b]{text\\ text}}
+            &   {\thead[b]{text\\ text}}
+            &   {\thead[b]{text\\ text}}                    \\
+            \midrule
+            text    & -1.234    & 0.123 & 0.123 & 0.12  & 0.123 & 0.123 & 1.234         \\
+            some longer text (with seven words)
+            & -1.234    & 0.123 & 0.123 & 0.12  & -2.00 & 0.123 & 1.234         \\
+            \bottomrule
+        \end{tabular*}
+        \begin{tablenotes}[flushleft]\small
+            \note:   each variable ...
+            \source:   Authors' calculations ...
+        \end{tablenotes}
+    \end{table}
+
+
+}
+% ^ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 

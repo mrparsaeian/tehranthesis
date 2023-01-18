@@ -1,19 +1,318 @@
 {
-    "workbench.colorTheme": "Theme",
-    "cSpell.language": "en,fa-IR,fa,en-US",
-    "cSpell.enableFiletypes": [
-        "latex-expl3"
-    ],
-    "bookmarks.sideBar.expanded": true,
-    "bookmarks.label.suggestion": "suggestWhenSelectedOrLineWhenNoSelected",
-    "cSpell.words": [
-        "امیدعلی",
-        "اهميت",
-        "بهمراه",
-        "تمپلیت",
-        "مسأله",
-        "مسؤول",
-        "مسؤولین",
-        "نمائید"
-    ]
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "kite.showWelcomeNotificationOnStartup": false,
+  "better-comments.highlightPlainText": true,
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook",
+    "*.sqlite3": "default"
+  },
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "colorful-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "?",
+      "color": "#0076FF",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "^",
+      "color": "#EAF622",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "*",
+      "color": "#28FF00",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "&",
+      "color": "#FF06A0",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "~",
+      "color": "#BE00FF",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    }
+  ],
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.commandsToSkipShell": ["language-julia.interrupt"],
+  "julia.symbolCacheDownload": true,
+  "julia.enableTelemetry": false,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "workbench.colorTheme": "Solarized Dark",
+  "latex-workshop.view.pdf.viewer": "tab",
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "Tehran Thesis",
+      "tools": ["tehranthesis"]
+    },
+    {
+      "name": "pdflatex",
+      "tools": ["pdflatex"]
+    },
+    {
+      "name": "pdflatex ➞ biber ➞ pdflatex`×2",
+      "tools": ["pdflatex", "biberdoc", "pdflatex", "pdflatex"]
+    },
+    {
+      "name": "latexmk 🔃",
+      "tools": ["latexmk"]
+    },
+    {
+      "name": "xelatexmk 🔃",
+      "tools": ["xelatexmk"]
+    },
+    {
+      "name": "platexmk 🔃",
+      "tools": ["platexmk"]
+    },
+    {
+      "name": "pdflatex ➞ bibtex ➞ pdflatex`×2",
+      "tools": ["pdflatex", "bibtex", "pdflatex", "pdflatex"]
+    },
+    {
+      "name": "xelatex ➞ biber ➞ xelatex",
+      "tools": ["xelatex", "biber", "xelatex"]
+    }
+  ],
+  "latex-workshop.latex.external.build.command": "sh",
+  "latex-workshop.latex.external.build.args": [
+    "/home/master/pj/gitprojects/thesis/latex/tehran-thesis-master/run-build.sh"
+  ],
+
+  "latex-workshop.latex.tools": [
+    {
+      "name": "tehranthesisold",
+      "command": ["build-alt.sh"],
+      "args": [],
+      "env": {}
+    },
+    {
+      "name": "tehranthesis",
+      "command": ["run-build.sh"],
+      "args": [],
+      "env": {}
+    },
+    {
+      "name": "latexmk",
+      "command": "latexmk",
+      "args": [
+        "-xelatex",
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%"
+      ],
+      "env": {}
+    },
+    {
+      "name": "platexmk",
+      "command": "latexmk",
+      "args": [
+        "-synctex=1",
+        "-file-line-error",
+        "-pdf",
+        "-outdir=%OUTDIR%",
+        "%DOC%"
+      ],
+      "env": {}
+    },
+    {
+      "name": "xelatexmk",
+      "command": "latexmk",
+      "args": [
+        "-synctex=1",
+        "-file-line-error",
+        "-xelatex",
+        "-outdir=%OUTDIR%",
+        "-interaction=nonstopmode",
+        "-halt-on-error",
+        "%DOC%"
+      ],
+      "env": {}
+    },
+    {
+      "name": "pdflatex",
+      "command": "pdflatex",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-halt-on-error",
+        "-file-line-error",
+        "%DOC%"
+      ],
+      "env": {}
+    },
+    {
+      "name": "xelatex",
+      "command": "xelatex",
+      "args": [
+        "-xelatex",
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%"
+      ],
+      "env": {}
+    },
+    {
+      "name": "bibtex",
+      "command": "bibtex",
+      "args": ["%DOCFILE%"],
+      "env": {}
+    },
+    {
+      "name": "biber",
+      "command": "biber",
+      "args": ["%DOCFILE%"],
+      "env": {}
+    },
+    {
+      "name": "biberdoc",
+      "command": "biber",
+      "args": ["%DOC%"],
+      "env": {}
+    }
+  ],
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "idf.adapterTargetName": "esp32",
+  "idf.espIdfPath": "/home/master/esp/esp-idf",
+  "idf.pythonBinPath": "/home/master/.espressif/python_env/idf4.3_py3.8_env/bin/python",
+  "idf.toolsPath": "/home/master/.espressif",
+  "idf.customExtraPaths": "/home/master/.espressif/tools/xtensa-esp32-elf/esp-2021r1-8.4.0/xtensa-esp32-elf/bin:/home/master/.espressif/tools/xtensa-esp32s2-elf/esp-2021r1-8.4.0/xtensa-esp32s2-elf/bin:/home/master/.espressif/tools/xtensa-esp32s3-elf/esp-2021r1-8.4.0/xtensa-esp32s3-elf/bin:/home/master/.espressif/tools/riscv32-esp-elf/esp-2021r1-8.4.0/riscv32-esp-elf/bin:/home/master/.espressif/tools/esp32ulp-elf/2.28.51-esp-20191205/esp32ulp-elf-binutils/bin:/home/master/.espressif/tools/esp32s2ulp-elf/2.28.51-esp-20191205/esp32s2ulp-elf-binutils/bin:/home/master/.espressif/tools/openocd-esp32/v0.10.0-esp32-20210401/openocd-esp32/bin",
+  "idf.customExtraVars": "{\"OPENOCD_SCRIPTS\":\"/home/master/.espressif/tools/openocd-esp32/v0.10.0-esp32-20210401/openocd-esp32/share/openocd/scripts\"}",
+  "idf.gitPath": "git",
+  "idf.flashType": "UART",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32.cfg"
+  ],
+  "idf.port": "/dev/ttyUSB0",
+  "cmake.configureOnOpen": true,
+  "idf.saveScope": 1,
+  "grammarly.audience": "expert",
+  "grammarly.domain": "academic",
+  "projectManager.git.baseFolders": ["/home/master/pj/gitprojects"],
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "files.associations": {
+    "*.rmd": "markdown"
+  },
+  "json.maxItemsComputed": 20000,
+  "githubPullRequests.remotes": ["origin", "upstream", "survey-front"],
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[latex]": {
+    "editor.defaultFormatter": "James-Yu.latex-workshop"
+  },
+  "tabnine.experimentalAutoImports": true,
+  "editor.largeFileOptimizations": false,
+  "cSpell.language": "en,fa-IR,fa,en-US",
+  "cSpell.enableFiletypes": ["latex-expl3"],
+  "bookmarks.saveBookmarksInProject": true,
+  "bookmarks.keepBookmarksOnLineDelete": true,
+  "bookmarks.label.suggestion": "suggestWhenSelectedOrLineWhenNoSelected",
+  "bookmarks.sideBar.expanded": true,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "editor.foldingMaximumRegions": 30000,
+  "notebook.output.textLineLimit": 100,
+  "rapidapi.terminalLink.enabled": true,
+  "notebook.lineNumbers": "on",
+  "cSpell.enabled": true,
+  "editor.stickyScroll.enabled": true,
+  "editor.minimap.size": "fill",
+  "editor.minimap.showSlider": "always",
+  "workbench.activityBar.visible": true
 }

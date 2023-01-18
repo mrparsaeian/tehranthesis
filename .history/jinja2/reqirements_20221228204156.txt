@@ -1,0 +1,26 @@
+python3 -m pip install pip --upgrade
+python -m pip install -U autopep8
+   python -m pip install jupyter notebook -U
+   pip install tabulate
+   pip install pandas seaborn scipy arabic_reshaper
+   pip install bidi
+   pip install PIL
+   pip install statsmodels
+   pip install tqdm
+   pip install sklearn
+   sudo pip install bidi
+   pip install python-bidi
+   pip install PIL
+   pip install Pillow
+   pip install sklearn
+   pip install openpyxl
+   pip install rpy2
+   pip install rpy2
+   
+   python3 -m pip install setuptools --upgrade
+   python3 -m pip install wheel --upgrade
+   pip install rpy2
+   pip install rpy2 cffi
+   python -m pip install -U autopep8
+   #pip install qgrid
+   pip install pandasgui

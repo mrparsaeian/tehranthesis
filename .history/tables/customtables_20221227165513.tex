@@ -1,0 +1,53 @@
+
+% ^  
+\newcommand{
+    \CompareDarkTriadStatisticsRef
+}[0]{
+    \eqref{tab:CompareDarkTriadStatisticsCustomTable}
+}
+% ^ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\newcommand{
+    \CompareDarkTriadStatisticsCustomTableCommand
+}[0]{
+
+    \begin{table}
+        \centering
+        \caption{مقایسه شاخص ‌های آماری}\label{tab:scoring}
+        \setlength\tabcolsep{0pt}
+        \begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}
+                l
+                S[table-format=-1.3]
+                *{2}{S[table-format= 1.3]}
+                S[table-format=-1.2]
+                S[table-format=-1.3]
+                    *{2}{S[table-format= 1.3]}
+            }
+            \toprule
+            &   \multicolumn{4}{c}{پژوهش حاضر}   
+            &   \multicolumn{3}{c}{پژوهشی یوسفی}
+            % &   \multicolumn{3}{c}{پژوهشی یوسفی} 
+            \\
+            \cmidrule(r){2-5}
+            \cmidrule(l){6-8}
+            &   {\thead[b]{یک\\ دو}}
+            &   {\thead[b]{سه}}
+            &   {\thead[b]{چهار}}
+            &   {\thead[b]{پنج\\ شش}}
+            &   {\thead[b]{هشت\\ هفت}}
+            &   {\thead[b]{نه\\ ده}}
+            &   {\thead[b]{دوازده\\ یازده}}                    \\
+            \midrule
+            توضیح۱    & -1.234    & 0.123 & 0.123 & 0.12  & 0.123 & 0.123 & 1.234         \\
+            توضیح دو (توضیح سه)
+            & -1.234    & 0.123 & 0.123 & 0.12  & -2.00 & 0.123 & 1.234         \\
+            \bottomrule
+        \end{tabular*}
+        \begin{tablenotes}[flushleft]\small
+            \note:   توضیح چهار ...
+            \source:   توضیح پنج ...
+        \end{tablenotes}
+    \end{table}
+
+
+}
+% ^ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 

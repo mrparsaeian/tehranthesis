@@ -1,0 +1,17 @@
+\BLOCK{ for x in range(1, NumebrOfCostumeTables+1) }
+
+\#{} % ^ \VAR{CostumeTables[x]["CostumeTables"]} 
+\newcommand{
+    \\VAR{CostumeTables[x]["CostumeTableNameRef"]}
+}[0]{
+	\eqref{tab:\VAR{CostumeTables[x]["CostumeTableName"]}}
+}
+\#{} % ^ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\newcommand{
+    \\VAR{CostumeTables[x]["CostumeTableName"]Command}
+}[0]{
+	\VAR{CostumeTables[x]["CostumeTableValue"]}
+}
+\#{} % ^ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\BLOCK{ endfor }
+

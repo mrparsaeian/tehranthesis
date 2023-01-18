@@ -1,0 +1,8 @@
+
+\BLOCK{ for x in range(1, NumebrOfTables+1) }
+\#{} % ^ \VAR{Tables[x]["TableName"]} =  \VAR{Tables[x]["TableLatexfromDF"]} 
+\newcommand{
+    \\VAR{Tables[x]["TableName"]}
+}[0]{\VAR{Tables[x]["TableLatexfromDF"]}}
+\#{} % ^ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\BLOCK{ endfor }

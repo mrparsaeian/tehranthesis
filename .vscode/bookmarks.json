@@ -74,17 +74,17 @@
 			"path": "tex/chapter5.tex",
 			"bookmarks": [
 				{
-					"line": 7,
+					"line": 21,
 					"column": 0,
 					"label": "Dark triad discussion"
 				},
 				{
-					"line": 46,
+					"line": 60,
 					"column": 0,
 					"label": "SVO discussion"
 				},
 				{
-					"line": 53,
+					"line": 67,
 					"column": 0,
 					"label": "QOL discussion"
 				}

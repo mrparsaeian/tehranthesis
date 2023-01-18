@@ -1,0 +1,205 @@
+% !TEX TS-program = XeLaTeX
+% Command for running this example (needs latexmkrc file):
+%    latexmk -bibtex -pdf main.tex
+
+%	نمونه پایان‌نامه آماده شده با استفاده از کلاس tehran-thesis، نگارش 1
+%	سینا ممکن، دانشگاه تهران 
+%	https://github.com/sinamomken/tehran-thesis
+%	گروه پارسی‌لاتک
+%	http://www.parsilatex.com
+%	این نسخه، بر اساس نسخه‌ 0.1 از کلاس IUST-Thesis آقای محمود امین‌طوسی آماده شده است.
+%        http://profsite.sttu.ac.ir/mamintoosi
+
+%----------------------------------------------------------------------------------------------
+% اگر قصد نوشتن پروژه کارشناسی را دارید، در خط زیر به جای msc، کلمه bsc و اگر قصد نوشتن رساله دکترا را دارید، کلمه phd را قرار دهید. کلیه تنظیمات لازم، به طور خودکار، اعمال می‌شود.
+% اگر مایلید پایان‌نامه شما دورو باشد به جای oneside در خط زیر از twoside استفاده کنید.
+% برای حاشیه‌نویسی و کم کردن صفحات ابتدایی، گزینه draft را وارد و برای نسخه نهایی آن را حذف کنید.
+\documentclass[twoside,openany,msc,draft]{./tex/tehran-thesis} % draft
+% \documentclass[twoside,openany,msc]{./tex/tehran-thesis} % draft
+% فایل commands.tex را مطالعه کنید؛ چون دستورات مربوط به فراخوانی بسته‌ها، فونت و دستورات خاص در این فایل قرار دارد.
+\input{./tex/commands}
+% تنظیمات و تعاریف واژه‌نامه و اختصارات
+\input{./tex/glossaries-settings}
+\input{./tex/words}
+\input{./tex/acronyms}
+% \input{./tables/tables}
+% \newcommand{\Vigrah}[4]{
+%     \begin{table}[htbp]
+%         \centering
+%         \caption{#1}
+%         \begin{tabular}{p{2cm}p{13cm}}
+%             \addlinespace
+%             \toprule
+%             نمودار‌ها & {#2} \\
+%             دانش     & {#3} \\
+%             \bottomrule
+%         \end{tabular}%
+%         \label{tab:#4}%
+%     \end{table}%
+% }
+%%%%%%%%%%%%%%%%%%%%%%%% IFs
+%% نظریه رفتار برنامه ریزی شده 
+\newif\ifPlennedBahaviorTheory
+\PlennedBahaviorTheorytrue
+% \PlennedBahaviorTheoryfalse
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Survey filling Behavior
+% بررسی اینکه آیا از نحوه پر کردن فرم ها می توان به کانفیدنس صداقت آزمودنی پی برد یا نه
+\newif\ifSurveyfillingBehavior
+\SurveyfillingBehaviortrue
+% \PlennedBahaviorTheoryfalse
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% value elicitation experimental auctions
+% بهترین سیاست برای قیمت صادقانه
+\newif\ifValueElicitation
+\ValueElicitationtrue
+% \ValueElicitationfalse
+%%%%%%%%%%%%%%%%%%%%%%%%
+% فراخوان قیمت 
+\newif\ifValueElicitation
+\ValueElicitationtrue
+% \ValueElicitationfalse
+%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%
+% experimental auction design
+\newif\ifExperimentalAuction
+\ExperimentalAuctiontrue
+% \ValueElicitationfalse
+%%%%%%%%%%%%%%%%%%%%%%%%
+\newif\ifTheEffectsOfDifferentPersonalData
+\TheEffectsOfDifferentPersonalDatatrue
+% \ValueElicitationfalse
+%%%%%%%%%%%%%%%%%%%%%%%%
+\newif\ifMultidimensionalNatureOfPrivacyRisksConceptualisationMeasurementAndImplicationsForDigitalServices
+\MultidimensionalNatureOfPrivacyRisksConceptualisationMeasurementAndImplicationsForDigitalServicestrue
+% \ValueElicitationfalse
+%%%%%%%%%%%%%%%%%%%%%%%%
+\newif\ifMeanPriceAuction
+\MeanPriceAuctiontrue
+\newif\ifMedianPriceAuction
+\MedianPriceAuctionfalse
+\newif\ifSecondPriceAuction
+\SecondPriceAuctionfalse
+\newif\ifFirstPriceAuction
+\FirstPriceAuctionfalse
+%modeling
+\newif\ifCognitiveHierchyModeling 
+% \CognitiveHierchyModelingtrue
+\CognitiveHierchyModelingfalse
+% WillingnessToPay
+\newif\ifWillingnessToPay
+\WillingnessToPaytrue
+%Dataveillance
+\newif\ifDataveillance
+\Dataveillancetrue
+%Social Curosity
+\newif\ifSocialCuriosity
+\SocialCuriositytrue
+% * from old proposal and thesis fron khordad 1400
+\newif\ifprivacy
+\privacytrue  %<<< Uncomment as required
+%\privacyfalse  %<<< Uncomment as required
+
+\newif\ifdunningKruger
+%\dunningKrugertrue  %<<< Uncomment as required
+\dunningKrugerfalse  %<<< Uncomment as required
+
+\newif\ifownershipBias
+%\ownershipBiastrue
+\ownershipBiasfalse
+
+\newif\ifhiddenProfileGroupDecisionMaking
+% \hiddenProfileGroupDecisionMakingfalse
+\hiddenProfileGroupDecisionMakingtrue
+\newif\ifprivacySecondUseofInformation
+\privacySecondUseofInformationtrue
+%\privacySecondUseofInformationfalse
+
+\newif\iftheoremHiddenProfile
+% \theoremHiddenProfiletrue
+\theoremHiddenProfilefalse
+
+\newif\ifEthics
+\Ethicsfalse
+%\Ethicstrue
+
+\newif\ifRationalChoiceTheory
+\RationalChoiceTheorytrue
+%\RationalChoiceTheoryfalse
+
+\newif\ifhiddenProfileGroupDecisionMaking
+\hiddenProfileGroupDecisionMakingfalse
+% * %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% * correction for font  https://tex.stackexchange.com/questions/22045/xelatex-error-latex-font-warning-font-shape
+% \makeatletter
+% \let\@@scshape=\scshape
+% \renewcommand{\scshape}{%
+%   \ifnum\strcmp{\f@series}{bx}=\z@
+%     \usefont{T1}{cmr}{bx}{sc}%
+%   \else
+%     \ifnum\strcmp{\f@shape}{it}=\z@
+%       \fontshape{scsl}\selectfont
+%     \else
+%       \@@scshape
+%     \fi
+%   \fi}
+% \makeatother
+
+% ^ %  ^ اجرای آمار در لاتک
+
+% \include{./tex/pythoncode}
+% \include{./tex/variables}
+\input{./tex/variables}
+%  ^ اجرای آمار در لاتک
+\input{./tables/tables}
+\input{./tables/customtables}
+
+\begin{document}
+\pagenumbering{adadi} % یک، دو، ...
+% مشخصات پایان‌نامه را در فایلهای faTitle و enTitle وارد نمایید.
+\input{./tex/faTitle}
+\ghadrdaniPage
+
+% اگر شما فصل اول  خود را در فایلی به جز chapter1 نوشته‌اید باید چندخط اول آن را در فایل خود کپی کنید.
+% \include{./tex/chapter1}		% فصل اول: مقدمه
+% \include{./tex/chapter2}		% فصول دوم: مروری بر مطالعات انجام شده
+% \include{./tex/chapter3}		% فصل سوم: روش تحقیق
+\include{./tex/chapter4}		% فصل چهارم: نتایج
+% \include{./tex/chapter5}		% فصل پنجم: بحث و نتیجه‌گیری
+
+% مراجع
+% اگر از استیل‌های natbib استفاده می‌کنید باید دو خط را در فایل commands.tex تغییر دهید.
+\pagestyle{empty}
+{
+    \onehalfspacing
+    % \bibliographystyle{plain-fa} % or plainnat-fa for author-date
+    \bibliographystyle{plainnat-fa} % or plainnat-fa for author-date
+    % \bibliography{./tex/MyReferences}
+    \bibliography{./tex/MyLibrary}
+
+
+
+}
+
+\pagestyle{fancy}
+
+\appendix
+% فصلهای پس از این قسمت به عنوان ضمیمه خواهند آمد.
+% چندخط اول فایل appendix1 باید در فایل اولین پیوست بیاید.
+\include{./tex/appendix1}		% پیوست اول: آشنایی مقدماتی با لاتک
+\include{./tex/appendix2}		% پیوست دوم: جدول، نمودار و الگوریتم در لاتک
+\include{./tex/appendix3} 	% پیوست سوم: مراجع، واژه‌نامه و حاشیه‌نویسی
+
+% برگرداندن شماره‌بندی صفحات فصول
+\let\chapter\Chapter
+\pagenumbering{tartibi} % اول، دوم، ...
+\baselineskip=.75cm
+
+% چاپ واژه‌نامه‌ها و نمایه 
+\onehalfspacing
+\printglossary
+\printindex
+% مشخصات انگلیسی پایان‌نامه
+\input{./tex/enTitle}
+\label{LastPage}
+
+\end{document}

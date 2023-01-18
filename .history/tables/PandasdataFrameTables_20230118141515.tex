@@ -1,0 +1,24 @@
+
+% ^ StyledTableFromDF 
+\newcommand{
+    \StyledTableFromDF
+}[0]{\begin{table}
+        \centering
+        \caption{Selected stock correlation and simple statistics.}
+        \begin{tabular}{llrrrrrrrrl}
+            \toprule
+                                         &          & \multicolumn{4}{|c|}{Equity}                         & \multicolumn{4}{|c|}{Stats}                          & Rating                                                                                                                                                                                                                                                      \\
+                                         &          & \multicolumn{2}{|c|}{Energy}                         & \multicolumn{2}{|c|}{Consumer}                       & \multicolumn{4}{|c|}{}                               &                                                                                                                                                                                                      \\
+                                         &          & \rotatebox{45}{BP}                                   & \rotatebox{45}{Shell}                                & \rotatebox{45}{H\&M}                                 & \rotatebox{45}{Unilever}                             & \rotatebox{45}{Std Dev} & \rotatebox{45}{Variance} & \rotatebox{45}{52w High} & \rotatebox{45}{52w Low} & \rotatebox{45}{}                    \\
+            \midrule
+            \multirow[c]{2}{*}{Energy}   & BP       & {\cellcolor[HTML]{FCFFA4}} \color[HTML]{000000} $1.00$ & {\cellcolor[HTML]{FCA50A}} \color[HTML]{000000} 0.80 & {\cellcolor[HTML]{EB6628}} \color[HTML]{F1F1F1} 0.66 & {\cellcolor[HTML]{F68013}} \color[HTML]{F1F1F1} 0.72 & 32.2                    & 1,034.8                  & 335.1                    & 240.9                   & \color[HTML]{33FF85} \bfseries BUY  \\
+                                         & Shell    & {\cellcolor[HTML]{FCA50A}} \color[HTML]{000000} 0.80 & {\cellcolor[HTML]{FCFFA4}} \color[HTML]{000000} 1.00 & {\cellcolor[HTML]{F1731D}} \color[HTML]{F1F1F1} 0.69 & {\cellcolor[HTML]{FCA108}} \color[HTML]{000000} 0.79 & 1.9                     & 3.5                      & 14.1                     & 19.8                    & \color[HTML]{FFDD33} \bfseries HOLD \\
+            \cline{1-11}
+            \multirow[c]{2}{*}{Consumer} & H\&M     & {\cellcolor[HTML]{EB6628}} \color[HTML]{F1F1F1} 0.66 & {\cellcolor[HTML]{F1731D}} \color[HTML]{F1F1F1} 0.69 & {\cellcolor[HTML]{FCFFA4}} \color[HTML]{000000} 1.00 & {\cellcolor[HTML]{FAC42A}} \color[HTML]{000000} 0.86 & 7.0                     & 49.0                     & 210.9                    & 140.6                   & \color[HTML]{33FF85} \bfseries BUY  \\
+                                         & Unilever & {\cellcolor[HTML]{F68013}} \color[HTML]{F1F1F1} 0.72 & {\cellcolor[HTML]{FCA108}} \color[HTML]{000000} 0.79 & {\cellcolor[HTML]{FAC42A}} \color[HTML]{000000} 0.86 & {\cellcolor[HTML]{FCFFA4}} \color[HTML]{000000} 1.00 & 213.8                   & 45,693.3                 & 2,807.0                  & 3,678.0                 & \color[HTML]{FF5933} \bfseries SELL \\
+            \cline{1-11}
+            \bottomrule
+        \end{tabular}
+    \end{table}
+}
+% ^ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 

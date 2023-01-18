@@ -4,9 +4,6 @@ Release version: 3.71 (04 mar 2019)
 
 The 8-bit codepage and sorting file: cp1256fa.csf
 The top-level auxiliary file: main.aux
-A level-1 auxilliary file: ./tex/chapter1.aux
-A level-1 auxilliary file: ./tex/chapter2.aux
-A level-1 auxilliary file: ./tex/chapter3.aux
 A level-1 auxilliary file: ./tex/chapter4.aux
 A level-1 auxilliary file: ./tex/chapter5.aux
 The style file: plainnat-fa.bst
@@ -17,32 +14,12 @@ Reallocated glb_str_ptr (elt_size=8) to 10 items from 0.
 Reallocated global_strs (elt_size=200001) to 10 items from 0.
 Reallocated glb_str_end (elt_size=8) to 10 items from 0.
 Database file #1: ./tex/MyLibrary.bib
-Warning--I didn't find a database entry for "schyffDuplicitouslMedia2020"
-Warning--I didn't find a database entry for "daviesFacebookPay5bn2019m"
-Warning--I didn't find a database entry for "FacebookAgreesPay2019"
-Warning--I didn't find a database entry for "SuspendingCambridgeAnalytica2018"
-Warning--I didn't find a database entry for "FacebookDataPrivacy2018"
-Warning--I didn't find a database entry for "HealthBehaviorTheory2015"
-Warning--I didn't find a database entry for "karwatzkiMultidimensionalNaturePrivacy"
-Warning--I didn't find a database entry for "IcekAjzenHomepage"
-Warning--I didn't find a database entry for "PdarcheSvoApplication"
 Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
-Warning--empty journal in shrnzStndrdszyPrsshnmhKyfyt1385
-Warning--empty journal in cavoukianDiscussionPaperPrivacy2009
-Warning--empty journal in dillmanMultipleAnswerQuestions2003
-Warning--empty year in kangFacebookSaysCambridge
-Warning--empty publisher in machovaDiscourseSurveillancePrivacy2021
-Warning--empty journal in padyabExploringImpactsSecondary2018
-Warning--empty year in salinasZuckerbergCambridgeAnalytica
-Warning--empty year in smithThereOpenSecret
-Warning--empty year in spanFacebookCEOMark
-Warning--empty publisher in spiekermannNetworksControlReport2016
 
 Here's how much of BibTeX's memory you used:
- Cites:                87 out of 750
- Fields:             1969 out of 5000
- Hash table:        29673 out of 30000
- Strings:            1442 out of 30000
- Free string pool:  31379 out of 65000
+ Cites:                 3 out of 750
+ Fields:               47 out of 5000
+ Hash table:        29736 out of 30000
+ Strings:             759 out of 30000
+ Free string pool:   6968 out of 65000
  Wizard functions:   3218 out of 6000
-(There were 19 warnings)
