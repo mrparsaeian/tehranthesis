@@ -28,3 +28,32 @@
 
 }
  % ^ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+ % ^  
+\newcommand{
+    \LatexFromStatisticsRankMeans
+}[0]{
+	\eqref{tab:LatexFromStatisticsRankMeans}
+}
+ % ^ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\newcommand{
+    \LatexFromStatisticsRankMeansCommand
+}[0]{
+	\begin{table}[h]
+\centering
+\caption{Styled LaTeX Table}
+\label{table:5}
+\begin{tabular}{LLLLL}
+\toprule
+ & \multicolumn{2}{r}{Numeric} & Non-Numeric \\
+ & Integers & Floats & Strings \\
+\midrule
+ix1 & 1 & 2.20 & DOGS \\
+ix2 & 3 & 4.40 & CATS \\
+ix3 & 2 & 6.60 & COWS \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+}
+ % ^ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 

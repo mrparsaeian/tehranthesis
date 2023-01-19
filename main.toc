@@ -9,21 +9,21 @@
 \contentsline {section}{\numberline {1-3}ویژگی‌های نمونه}{خ}{section.1.3}%
 \contentsline {section}{\numberline {1-4}سه‌گانه تاریک}{خ}{section.1.4}%
 \contentsline {section}{\numberline {1-5}نتایج آزمون جهت‌گیری ارزش اجتماعی}{ر}{section.1.5}%
-\contentsline {section}{\numberline {1-6}اعتبارسنجی}{ش}{section.1.6}%
-\contentsline {chapter}{\numberline {2}بحث و نتیجه‌گیری}{ص}{chapter.2}%
-\contentsline {section}{\numberline {2-1}بررسی رفتارهای مشاهده شده }{ص}{section.2.1}%
-\contentsline {section}{\numberline {2-2}نتایج مربوط به سه‌گانه تاریک}{ص}{section.2.2}%
-\contentsline {section}{\numberline {2-3} نتایج مربوط به \lr {SVO} }{ض}{section.2.3}%
-\contentsline {section}{\numberline {2-4} نتایج مربوط به کیفیت زندگی }{ض}{section.2.4}%
-\contentsline {section}{\numberline {2-5}محتوا}{ض}{section.2.5}%
-\contentsline {section}{\numberline {2-6}جمع‌بندی}{ض}{section.2.6}%
-\contentsline {section}{\numberline {2-7}نوآوری}{ض}{section.2.7}%
-\contentsline {section}{\numberline {2-8}پیشنهادها}{ض}{section.2.8}%
-\contentsline {section}{\numberline {2-9}محدودیت‌ها}{ض}{section.2.9}%
-\contentsline {section}{\numberline {2-10}محدودیت‌های ابزار سنجش نگرش به انواع اطلاعات خصوصی}{ط}{section.2.10}%
-\contentsline {chapter}{مراجع}{ظ}{chapter*.6}%
+\contentsline {section}{\numberline {1-6}اعتبارسنجی}{ژ}{section.1.6}%
+\contentsline {chapter}{\numberline {2}بحث و نتیجه‌گیری}{ش}{chapter.2}%
+\contentsline {section}{\numberline {2-1}بررسی رفتارهای مشاهده شده }{ش}{section.2.1}%
+\contentsline {section}{\numberline {2-2}نتایج مربوط به سه‌گانه تاریک}{ش}{section.2.2}%
+\contentsline {section}{\numberline {2-3} نتایج مربوط به \lr {SVO} }{ص}{section.2.3}%
+\contentsline {section}{\numberline {2-4} نتایج مربوط به کیفیت زندگی }{ص}{section.2.4}%
+\contentsline {section}{\numberline {2-5}محتوا}{ص}{section.2.5}%
+\contentsline {section}{\numberline {2-6}جمع‌بندی}{ص}{section.2.6}%
+\contentsline {section}{\numberline {2-7}نوآوری}{ص}{section.2.7}%
+\contentsline {section}{\numberline {2-8}پیشنهادها}{ص}{section.2.8}%
+\contentsline {section}{\numberline {2-9}محدودیت‌ها}{ص}{section.2.9}%
+\contentsline {section}{\numberline {2-10}محدودیت‌های ابزار سنجش نگرش به انواع اطلاعات خصوصی}{ض}{section.2.10}%
+\contentsline {chapter}{مراجع}{ط}{chapter*.6}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
-\contentsline {chapter}{\numberline {آ}پرسشنامه‌ها}{ع}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {ب}ابزار مبتنی بر وب}{ف}{appendix.Alph2}%
+\contentsline {chapter}{\numberline {آ}پرسشنامه‌ها}{ظ}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {ب}ابزار مبتنی بر وب}{غ}{appendix.Alph2}%
 \contentsline {chapter}{واژه نامه فارسی به انگلیسی}{اول}{figure.Alph2.1}%
 \contentsline {chapter}{واژه نامه انگلیسی به فارسی}{دوم}{figure.Alph2.1}%
