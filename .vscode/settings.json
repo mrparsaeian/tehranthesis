@@ -314,5 +314,5 @@
   "editor.stickyScroll.enabled": true,
   "editor.minimap.size": "fill",
   "editor.minimap.showSlider": "always",
-  "workbench.activityBar.visible": true
+  "workbench.activityBar.visible": false
 }
