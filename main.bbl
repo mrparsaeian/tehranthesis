@@ -1,9 +1,187 @@
-\begin{thebibliography}{3}
+\begin{thebibliography}{92}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[سحرناز et~al.(1385)سحرناز, علي, كوروش, كاظم,
+  and سيدرضا]{shrnzStndrdszyPrsshnmhKyfyt1385}
+نجات سحرناز, منتظري علي, هلاكويي~ناييني
+  كوروش, محمد كاظم, and مجدزاده سيدرضا.
+\newblock {استانداردسازي پرسشنامه كيفيت زندگي
+  سازمان جهاني بهداشت (WHOQOL-BREF): ترجمه و روان
+  سنجي گونه ايراني}.
+\newblock 4\penalty0 (4):\penalty0 1--12, January 1385.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[محمدپور and کیاکوری(2022)]{mhmdpwrBrrsyTthyrTywry2022}
+زهرا محمدپور and داود کیاکوری.
+\newblock {بررسی تاثیر تئوری رفتار برنامه ریزی
+  شده و رفتار فرصت طلبانه بر کنش حسابگرانه
+  کارکنانحسابداران)}.
+\newblock \emph{پژوهش های مالی و رفتاری در
+  حسابداری}, 1\penalty0 (3), February 2022.
+\newblock \doi{10.30486/fbra.2021.1945782.1050}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Acquisti et~al.(2016)Acquisti, Taylor, and
+  Wagman]{acquistiEconomicsPrivacy2016}
+Alessandro Acquisti, Curtis Taylor, and Liad Wagman.
+\newblock The {{Economics}} of {{Privacy}}.
+\newblock \emph{Journal of Economic Literature}, 54\penalty0 (2):\penalty0
+  442--492, June 2016.
+\newblock ISSN 0022-0515.
+\newblock \doi{10.1257/jel.54.2.442}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Agogo(2021)]{agogoInvisibleMarketOnline2021}
+David Agogo.
+\newblock Invisible market for online personal data: {{An}} examination.
+\newblock \emph{Electronic Markets}, 31\penalty0 (4):\penalty0 989--1010,
+  December 2021.
+\newblock ISSN 1422-8890.
+\newblock \doi{10.1007/s12525-020-00437-0}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Ajzen(1991)]{ajzenTheoryPlannedBehavior1991}
+Icek Ajzen.
+\newblock The theory of planned behavior.
+\newblock \emph{Organizational Behavior and Human Decision Processes},
+  50\penalty0 (2):\penalty0 179--211, December 1991.
+\newblock ISSN 0749-5978.
+\newblock \doi{10.1016/0749-5978(91)90020-T}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Ajzen(2020)]{ajzenTheoryPlannedBehavior2020}
+Icek Ajzen.
+\newblock The theory of planned behavior: {{Frequently}} asked questions.
+\newblock \emph{Human Behavior and Emerging Technologies}, 2\penalty0
+  (4):\penalty0 314--324, 2020.
+\newblock ISSN 2578-1863.
+\newblock \doi{10.1002/hbe2.195}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Ajzen and Fishbein(2000)]{ajzenAttitudesAttitudeBehaviorRelation2000}
+Icek Ajzen and Martin Fishbein.
+\newblock Attitudes and the {{Attitude-Behavior Relation}}: {{Reasoned}} and
+  {{Automatic Processes}}.
+\newblock \emph{European Review of Social Psychology - EUR REV SOC PSYCHOL},
+  11:\penalty0 1--33, January 2000.
+\newblock \doi{10.1080/14792779943000116}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Ajzen and Madden(1986)]{ajzenPredictionGoaldirectedBehavior1986}
+Icek Ajzen and Thomas~J Madden.
+\newblock Prediction of goal-directed behavior: {{Attitudes}}, intentions, and
+  perceived behavioral control.
+\newblock \emph{Journal of Experimental Social Psychology}, 22\penalty0
+  (5):\penalty0 453--474, September 1986.
+\newblock ISSN 0022-1031.
+\newblock \doi{10.1016/0022-1031(86)90045-4}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Amjad and Wood(2009 Nov-Dec)]{amjadIdentifyingChangingNormative2009}
+Naumana Amjad and Alex~M. Wood.
+\newblock Identifying and changing the normative beliefs about aggression which
+  lead young {{Muslim}} adults to join extremist anti-{{Semitic}} groups in
+  {{Pakistan}}.
+\newblock \emph{Aggressive Behavior}, 35\penalty0 (6):\penalty0 514--519, 2009
+  Nov-Dec.
+\newblock ISSN 1098-2337.
+\newblock \doi{10.1002/ab.20325}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Barth and De~Jong(2017)]{barthPrivacyParadoxInvestigating2017}
+Susanne Barth and Menno De~Jong.
+\newblock The {{Privacy Paradox}} \textendash{} {{Investigating Discrepancies}}
+  between {{Expressed Privacy Concerns}} and {{Actual Online Behavior}}
+  \textendash{} {{A Systematic Literature Review}}.
+\newblock \emph{Telematics and Informatics}, 34, April 2017.
+\newblock \doi{10.1016/j.tele.2017.04.013}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Becker(1978)]{beckerEconomicApproachHuman1978}
+Gary Becker.
+\newblock The {{Economic Approach}} to {{Human Behavior}}.
+\newblock University of {{Chicago Press Economics Books}}, {University of
+  Chicago Press}, 1978.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Bentham(1791)]{benthamPanopticonInspectionHouseContaining1791}
+Jeremy Bentham.
+\newblock \emph{Panopticon; {{Or}}, {{The Inspection-House}}: {{Containing The
+  Idea}} of a {{New Principle}} of {{Construction}} Applicable to Any {{Sort}}
+  of {{Establishment}}, in Which {{Persons}} of Any {{Description}} Are to Be
+  Kept under {{Inspection}}: {{And In Particular To Penitentiary-Houses}},
+  {{Prisons}}, {{Houses Of Industry}}, {{Work-Houses}}, {{Poor Houses}},
+  {{Manufactories}}, {{Mad-Houses}}, {{Lazarettos}}, {{Hospitals}}, {{And
+  Schools}}: {{With A Plan Of Management}} ...}
+\newblock {Payne}, 1791.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Brandtz{\ae}g et~al.(2010)Brandtz{\ae}g, L{\"u}ders, and
+  Skjetne]{brandtzaegTooManyFacebook2010}
+Petter~Bae Brandtz{\ae}g, Marika L{\"u}ders, and Jan~H{\aa}vard Skjetne.
+\newblock Too {{Many Facebook}} ``{{Friends}}''? {{Content Sharing}} and
+  {{Sociability Versus}} the {{Need}} for {{Privacy}} in {{Social Network
+  Sites}}.
+\newblock \emph{International Journal of Human\textendash Computer
+  Interaction}, 26\penalty0 (11-12):\penalty0 1006--1030, November 2010.
+\newblock ISSN 1044-7318.
+\newblock \doi{10.1080/10447318.2010.516719}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Cavoukian(2009)]{cavoukianDiscussionPaperPrivacy2009}
+Ann Cavoukian.
+\newblock A discussion paper on privacy externalities, security breach
+  notification and the role of independent oversight : {{Privacy}}
+  externalities, security breach notification and the role of independent
+  oversight.
+\newblock 2009.
+
+\end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
@@ -16,6 +194,308 @@ Prabha~S Chandra, S~Deepthivarma, K.~R Jairam, and Tinku Thomas.
   199--203, March 2003.
 \newblock ISSN 0022-3999.
 \newblock \doi{10.1016/S0022-3999(02)00567-6}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Chang et~al.(2015)Chang, Chen, and
+  Salmon]{changInvestigationAverageBid2015}
+Wei-Shiun Chang, Bo~Chen, and Timothy~C. Salmon.
+\newblock An {{Investigation}} of the {{Average Bid Mechanism}} for
+  {{Procurement Auctions}}.
+\newblock \emph{Management Science}, 61\penalty0 (6):\penalty0 1237--1254,
+  2015.
+\newblock ISSN 0025-1909.
+\newblock \doi{10.1287/mnsc.2013.1893}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Chua et~al.(2021)Chua, Ooi, and
+  Herbland]{chuaEffectsDifferentPersonal2021}
+H.N. Chua, J.S. Ooi, and A.~Herbland.
+\newblock The effects of different personal data categories on information
+  privacy concern and disclosure.
+\newblock \emph{Computers and Security}, 110, 2021.
+\newblock ISSN 0167-4048.
+\newblock \doi{10/gm3c8d}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Confessore(2018)]{confessoreCambridgeAnalyticaFacebook2018}
+Nicholas Confessore.
+\newblock Cambridge {{Analytica}} and {{Facebook}}: {{The Scandal}} and the
+  {{Fallout So Far}}.
+\newblock \emph{The New York Times}, April 2018.
+\newblock ISSN 0362-4331.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Culnan(1993)]{culnanHowDidThey1993}
+M.~Culnan.
+\newblock "{{How Did They Get My Name}}?": {{An Exploratory Investigation}} of
+  {{Consumer Attitudes Toward Secondary Information Use}}.
+\newblock \emph{MIS Q.}, 1993.
+\newblock \doi{10.2307/249775}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Davies and Rushe(2019)]{daviesFacebookPay5bn2019}
+Rob Davies and Dominic Rushe.
+\newblock Facebook to pay \$5bn fine as regulator settles {{Cambridge
+  Analytica}} complaint.
+\newblock \emph{The Guardian}, July 2019.
+\newblock ISSN 0261-3077.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Day et~al.(2012)Day, Bateman, Carson, Dupont, Louviere, Morimoto,
+  Scarpa, and Wang]{dayOrderingEffectsChoice2012}
+Brett Day, Ian~J. Bateman, Richard~T. Carson, Diane Dupont, Jordan~J. Louviere,
+  Sanae Morimoto, Riccardo Scarpa, and Paul Wang.
+\newblock Ordering effects and choice set awareness in repeat-response stated
+  preference studies.
+\newblock \emph{Journal of Environmental Economics and Management}, 63\penalty0
+  (1):\penalty0 73--91, January 2012.
+\newblock ISSN 0095-0696.
+\newblock \doi{10.1016/j.jeem.2011.09.001}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[De~Dreu and Boles(1998)]{dedreuShareShareAlike1998}
+Carsten K.~W. De~Dreu and Terry~L. Boles.
+\newblock Share and share alike or winner take all?: {{The}} influence of
+  social value orientation upon choice and recall of negotiation heuristics.
+\newblock \emph{Organizational Behavior and Human Decision Processes},
+  76\penalty0 (3):\penalty0 253--276, 1998.
+\newblock ISSN 1095-9920.
+\newblock \doi{10.1006/obhd.1998.2806}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[{de Zwart} et~al.(2014){de Zwart}, Humphreys, and
+  Van~Dissel]{dezwartSurveillanceBigData2014}
+M.~{de Zwart}, S.~Humphreys, and B.~Van~Dissel.
+\newblock Surveillance, big data and democracy: Lessons for {{Australia}} from
+  the {{US}} and {{UK}}.
+\newblock \emph{http://www.unswlawjournal.unsw.edu.au/issue/volume-37-no-2},
+  2014.
+\newblock ISSN 0313-0096.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Demmers et~al.(2021)Demmers, Weihrauch, and
+  Thompson]{demmersYourDataAre2021}
+Joris Demmers, Andrea Weihrauch, and Frauke Thompson.
+\newblock Your {{Data}} are ({{Not}}) {{My Data}}: {{The Role}} of {{Social
+  Value Orientation}} in {{Sharing Data About Others}}.
+\newblock \emph{Journal of Consumer Psychology}, May 2021.
+\newblock \doi{10.1002/jcpy.1255}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Depositario et~al.(2009)Depositario, Nayga, Wu, and
+  Laude]{depositarioShouldStudentsBe2009}
+Dinah Pura~T. Depositario, Rodolfo~M. Nayga, Ximing Wu, and Tiffany~P. Laude.
+\newblock Should students be used as subjects in experimental auctions?
+\newblock \emph{Economics Letters}, 102\penalty0 (2):\penalty0 122--124,
+  February 2009.
+\newblock ISSN 0165-1765.
+\newblock \doi{10.1016/j.econlet.2008.11.018}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Dienlin and Metzger(2016)]{dienlinExtendedPrivacyCalculus2016}
+Tobias Dienlin and Miriam Metzger.
+\newblock An {{Extended Privacy Calculus Model}} for {{SNSs}}: {{Analyzing
+  Self-Disclosure}} and {{Self-Withdrawal}} in a {{Representative U}}.{{S}}.
+  {{Sample}}.
+\newblock \emph{Journal of Computer-Mediated Communication}, August 2016.
+\newblock \doi{10.1111/jcc4.12163}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Dillman et~al.(2003)Dillman, Smyth, Christian, and
+  Stern]{dillmanMultipleAnswerQuestions2003}
+Don~A Dillman, Jolene~D Smyth, Leah~M Christian, and Michael~J Stern.
+\newblock Multiple {{Answer Questions}} in {{Self-Administered Surveys}}: {{The
+  Use}} of {{Check-All-That-Apply}} and {{Forced-Choice Question Formats}}.
+\newblock page~40, 2003.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Dinev and Hart(2006)]{dinevExtendedPrivacyCalculus2006b}
+Tamara Dinev and Paul Hart.
+\newblock An {{Extended Privacy Calculus Model}} for {{E-Commerce
+  Transactions}}.
+\newblock \emph{Information Systems Research}, 17\penalty0 (1):\penalty0
+  61--80, 2006.
+\newblock ISSN 1047-7047.
+\newblock \doi{10.1287/isre.1060.0080}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Doswell et~al.(2011)Doswell, Braxter, Cha, and
+  Kim]{doswellTestingTheoryReasoned2011}
+Willa~M. Doswell, Betty~J. Braxter, EunSeok Cha, and Kevin~H. Kim.
+\newblock Testing the {{Theory}} of {{Reasoned Action}} in {{Explaining Sexual
+  Behavior Among African American Young Teen Girls}}.
+\newblock \emph{Journal of Pediatric Nursing}, 26\penalty0 (6):\penalty0
+  e45--e54, December 2011.
+\newblock ISSN 0882-5963.
+\newblock \doi{10.1016/j.pedn.2011.03.007}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Epstein and Medzini(2021)]{epsteinViewFramingDigital2021}
+Dmitry Epstein and Rotem Medzini.
+\newblock The {{View}} from {{Above}}: {{Framing}} of {{Digital Privacy}} in
+  {{Post Cambridge Analytica Congressional Hearings}}, August 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Fast and Schnurr(2021)]{fastValuePersonalData2021a}
+V.~Fast and D.~Schnurr.
+\newblock The value of personal data: {{An}} experimental analysis of data
+  types and personal antecedents.
+\newblock  in \emph{International {{Conference}} on {{Information Systems}},
+  {{ICIS}} 2020 - {{Making Digital Inclusive}}: {{Blending}} the {{Local}} and
+  the {{Global}}}, 2021.
+\newblock ISBN 978-1-73363-255-3.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Favaretto et~al.(2019)Favaretto, De~Clercq, and
+  Elger]{favarettoBigDataDiscrimination2019}
+Maddalena Favaretto, Eva De~Clercq, and Bernice~Simone Elger.
+\newblock Big {{Data}} and discrimination: Perils, promises and solutions.
+  {{A}} systematic review.
+\newblock \emph{Journal of Big Data}, 6\penalty0 (1):\penalty0 12, February
+  2019.
+\newblock ISSN 2196-1115.
+\newblock \doi{10.1186/s40537-019-0177-4}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Galavotti et~al.(2018)Galavotti, Moretti, and
+  Valbonesi]{galavottiSophisticatedBiddersBeautyContest2018}
+Stefano Galavotti, Luigi Moretti, and Paola Valbonesi.
+\newblock Sophisticated {{Bidders}} in {{Beauty-Contest Auctions}}.
+\newblock \emph{American Economic Journal: Microeconomics}, 10\penalty0
+  (4):\penalty0 1--26, November 2018.
+\newblock ISSN 1945-7669.
+\newblock \doi{10.1257/mic.20150240}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Gazdag et~al.(2019)Gazdag, Haude, Hoegl, and
+  Muethel]{gazdagNotWantTrust2019}
+Brooke~Ann Gazdag, Marie Haude, Martin Hoegl, and Miriam Muethel.
+\newblock I {{Do Not Want}} to {{Trust You}}, but {{I Do}}: On the
+  {{Relationship Between Trust Intent}}, {{Trusting Behavior}}, and {{Time
+  Pressure}}.
+\newblock \emph{Journal of Business and Psychology}, 34\penalty0 (5):\penalty0
+  731--743, October 2019.
+\newblock ISSN 1573-353X.
+\newblock \doi{10.1007/s10869-018-9597-y}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Gerber et~al.(2018)Gerber, Gerber, and
+  Volkamer]{gerberExplainingPrivacyParadox2018}
+Nina Gerber, Paul Gerber, and Melanie Volkamer.
+\newblock Explaining the privacy paradox: {{A}} systematic review of literature
+  investigating privacy attitude and behavior.
+\newblock \emph{Computers \& Security}, 77:\penalty0 226--261, August 2018.
+\newblock ISSN 0167-4048.
+\newblock \doi{10.1016/j.cose.2018.04.002}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Gonz{\'a}lez et~al.(2019)Gonz{\'a}lez, Yu, Figueroa, L{\'o}pez, and
+  Aragon]{gonzalezGlobalReactionsCambridge2019}
+Felipe Gonz{\'a}lez, Yihan Yu, Andrea Figueroa, Claudia L{\'o}pez, and Cecilia
+  Aragon.
+\newblock Global {{Reactions}} to the {{Cambridge Analytica Scandal}}: {{A
+  Cross-Language Social Media Study}}.
+\newblock  in \emph{Companion {{Proceedings}} of {{The}} 2019 {{World Wide Web
+  Conference}}}, {{WWW}} '19, pages 799--806, {New York, NY, USA}, May 2019.
+  {Association for Computing Machinery}.
+\newblock ISBN 978-1-4503-6675-5.
+\newblock \doi{10.1145/3308560.3316456}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Granville(2018)]{granvilleFacebookCambridgeAnalytica2018}
+Kevin Granville.
+\newblock Facebook and {{Cambridge Analytica}}: {{What You Need}} to {{Know}}
+  as {{Fallout Widens}}.
+\newblock \emph{The New York Times}, March 2018.
+\newblock ISSN 0362-4331.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Grewal(2018)]{grewalSuspendingCambridgeAnalytica2018}
+Paul Grewal.
+\newblock Suspending {{Cambridge Analytica}} and {{SCL Group From Facebook}},
+  March 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Group(1998)]{groupDevelopmentWorldHealth1998}
+The~Whoqol Group.
+\newblock Development of the {{World Health Organization WHOQOL-BREF Quality}}
+  of {{Life Assessment}}.
+\newblock \emph{Psychological Medicine}, 28\penalty0 (3):\penalty0 551--558,
+  May 1998.
+\newblock ISSN 1469-8978, 0033-2917.
+\newblock \doi{10.1017/S0033291798006667}.
 
 \end{LTRbibitems}
 
@@ -34,6 +514,244 @@ F.-M. Hartung, C.~Krohn, and M.~Pirschtat.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem[Henrich et~al.(2005)Henrich, Boyd, Bowles, Camerer, Fehr, Gintis,
+  McElreath, Alvard, Barr, Ensminger, Henrich, Hill, {Gil-White}, Gurven,
+  Marlowe, Patton, and Tracer]{henrichEconomicManCrosscultural2005}
+Joseph Henrich, Robert Boyd, Samuel Bowles, Colin Camerer, Ernst Fehr, Herbert
+  Gintis, Richard McElreath, Michael Alvard, Abigail Barr, Jean Ensminger,
+  Natalie~Smith Henrich, Kim Hill, Francisco {Gil-White}, Michael Gurven,
+  Frank~W. Marlowe, John~Q. Patton, and David Tracer.
+\newblock "{{Economic}} man" in cross-cultural perspective: {{Behavioral}}
+  experiments in 15 small-scale societies.
+\newblock \emph{Behavioral and Brain Sciences}, 28\penalty0 (6):\penalty0
+  795--815, December 2005.
+\newblock ISSN 0140-525X.
+\newblock \doi{10.1017/S0140525X05000142}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Hermes et~al.(2021)Hermes, Sutanrikulu, Schreieck, and
+  Krcmar]{hermesWhoQuitsPrivacyInvasive2021}
+Sebastian Hermes, Anela Sutanrikulu, Maximilian Schreieck, and Helmut Krcmar.
+\newblock Who {{Quits Privacy-Invasive Online Platform Operators}}? {{A
+  Segmentation Study}} with {{Implications}} for the {{Privacy Paradox}}.
+\newblock  in \emph{Hawaii {{International Conference}} on {{System
+  Sciences}}}, 2021.
+\newblock \doi{10.24251/HICSS.2021.564}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Holford(1828)]{holfordAccountGeneralPenitentiary1828}
+George Holford.
+\newblock \emph{An Account of the General Penitentiary at {{Millbank}} ... :
+  {{To}} Which Is Added, an Appendix, on the Form and Construction of Prisons
+  ...}
+\newblock {London : Printed for C. \& J. Rivington, and Hatchard and son},
+  1828.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Ja{\'s}kowski and
+  Czarnigowska(2019)]{jaskowskiContractorBidPricing2019}
+Piotr Ja{\'s}kowski and Agata Czarnigowska.
+\newblock Contractor's bid pricing strategy: A model with correlation among
+  competitors' prices.
+\newblock \emph{Open Engineering}, 9\penalty0 (1):\penalty0 159--166, January
+  2019.
+\newblock ISSN 2391-5439.
+\newblock \doi{10.1515/eng-2019-0021}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Jonason and Webster(2010)]{jonasonDirtyDozenConcise2010}
+Peter~K. Jonason and Gregory~D. Webster.
+\newblock The dirty dozen: {{A}} concise measure of the dark triad.
+\newblock \emph{Psychological Assessment}, 22\penalty0 (2):\penalty0 420--432,
+  2010.
+\newblock ISSN 1939-134X.
+\newblock \doi{10.1037/a0019265}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Kamleitner and Mitchell(2019)]{kamleitnerYourDataMy2019}
+Bernadette Kamleitner and Vince Mitchell.
+\newblock Your {{Data Is My Data}}: {{A Framework}} for {{Addressing
+  Interdependent Privacy Infringements}}.
+\newblock \emph{Journal of Public Policy \& Marketing}, 38\penalty0
+  (4):\penalty0 433--450, October 2019.
+\newblock ISSN 0743-9156.
+\newblock \doi{10.1177/0743915619858924}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Kamleitner and
+  Sotoudeh(2019)]{kamleitnerInformationSharingPrivacy2019}
+Bernadette Kamleitner and Mahshid Sotoudeh.
+\newblock Information sharing and privacy as a socio-technical phenomenon.
+\newblock \emph{TATuP - Zeitschrift f\"ur Technikfolgenabsch\"atzung in Theorie
+  und Praxis}, 29:\penalty0 68--71, December 2019.
+\newblock \doi{10.14512/tatup.28.3.68}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Kang and Frenkel()]{kangFacebookSaysCambridge}
+Cecilia Kang and Sheera Frenkel.
+\newblock Facebook {{Says Cambridge Analytica Harvested Data}} of {{Up}} to 87
+  {{Million Users}} - {{The New York Times}}.
+\newblock
+  https://www.nytimes.com/2018/04/04/technology/mark-zuckerberg-testify-congress.html.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Kozlowska(2018)]{kozlowskaFacebookDataPrivacy2018}
+Iga Kozlowska.
+\newblock Facebook and {{Data Privacy}} in the {{Age}} of {{Cambridge
+  Analytica}}, April 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[KROSNICK and ALWIN(1987)]{krosnickEVALUATIONCOGNITIVETHEORY1987}
+JON~A. KROSNICK and DUANE~F. ALWIN.
+\newblock {{AN EVALUATION OF A COGNITIVE THEORY OF RESPONSE-ORDER EFFECTS IN
+  SURVEY MEASUREMENT}}.
+\newblock \emph{Public Opinion Quarterly}, 51\penalty0 (2):\penalty0 201--219,
+  January 1987.
+\newblock ISSN 0033-362X.
+\newblock \doi{10.1086/269029}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Kv et~al.(2011)Kv, Pa, Ja, and L]{kvTraitEmotionalIntelligence2011}
+Petrides Kv, Vernon Pa, Schermer Ja, and Veselka L.
+\newblock Trait emotional intelligence and the dark triad traits of
+  personality.
+\newblock \emph{Twin research and human genetics : the official journal of the
+  International Society for Twin Studies}, 14\penalty0 (1), February 2011.
+\newblock ISSN 1832-4274.
+\newblock \doi{10.1375/twin.14.1.35}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Lee and Grant(2009)]{leeEffectQuestionOrder2009}
+Sunghee Lee and David Grant.
+\newblock The {{Effect}} of {{Question Order}} on {{Self-rated General Health
+  Status}} in a {{Multilingual Survey Context}}.
+\newblock \emph{American Journal of Epidemiology}, 169\penalty0 (12):\penalty0
+  1525--1530, June 2009.
+\newblock ISSN 0002-9262.
+\newblock \doi{10.1093/aje/kwp070}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Lerman(2013)]{lermanBigDataIts2013}
+Jonas Lerman.
+\newblock Big {{Data}} and {{Its Exclusions}}.
+\newblock \emph{Stanford Law Review Online}, 66:\penalty0 55--64, 2013.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Lusk and Shogren(2007)]{luskExperimentalAuctionsMethods2007}
+Jayson Lusk and Jason~F. Shogren.
+\newblock \emph{Experimental Auctions: Methods and Applications in Economic and
+  Marketing Research}.
+\newblock Quantitative Methods for Applied Economics and Business Research.
+  {Cambridge University Press}, {Cambridge ; New York}, 2007.
+\newblock ISBN 978-0-521-85516-7 978-0-521-67124-8.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Machova(2021)]{machovaDiscourseSurveillancePrivacy2021}
+Tereza Machova.
+\newblock \emph{The Discourse of Surveillance and Privacy: Biopower and
+  Panopticon in the {{Facebook-Cambridge Analytica}} Scandal}.
+\newblock 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Malhotra et~al.(2004)Malhotra, Kim, and
+  Agarwal]{malhotraInternetUsersInformation2004}
+Naresh~K. Malhotra, Sung~S. Kim, and James Agarwal.
+\newblock Internet {{Users}}' {{Information Privacy Concerns}} ({{IUIPC}}):
+  {{The Construct}}, the {{Scale}}, and a {{Causal Model}}.
+\newblock \emph{Information Systems Research}, 15\penalty0 (4):\penalty0
+  336--355, December 2004.
+\newblock ISSN 1047-7047.
+\newblock \doi{10.1287/isre.1040.0032}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Malhotra(2008)]{malhotraCompletionTimeResponse2008}
+Neil Malhotra.
+\newblock Completion {{Time}} and {{Response Order Effects}} in {{Web
+  Surveys}}.
+\newblock \emph{Public Opinion Quarterly}, 72\penalty0 (5):\penalty0 914--934,
+  December 2008.
+\newblock ISSN 0033-362X.
+\newblock \doi{10.1093/poq/nfn050}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[{Mart{\'i}nez-Carrasco} et~al.(2015){Mart{\'i}nez-Carrasco},
+  Brugarolas, {Martinez-Poveda}, and
+  Ruiz]{martinez-carrascoComparingHypotheticalNonhypothetical2015}
+Laura {Mart{\'i}nez-Carrasco}, M.~Brugarolas, Africa {Martinez-Poveda}, and
+  Juan Ruiz.
+\newblock Comparing hypothetical versus non-hypothetical methods for measuring
+  willingness to pay in a food context.
+\newblock \emph{Spanish Journal of Agricultural Research}, 13:\penalty0 e0109,
+  December 2015.
+\newblock \doi{10.5424/sjar/2015134-8233}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Meade and Craig(2012)]{meadeIdentifyingCarelessResponses2012}
+Adam~W. Meade and S.~Bartholomew Craig.
+\newblock Identifying careless responses in survey data.
+\newblock \emph{Psychological Methods}, 17\penalty0 (3):\penalty0 437--455,
+  September 2012.
+\newblock ISSN 1939-1463, 1082-989X.
+\newblock \doi{10.1037/a0028085}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem[Muris et~al.(2017)Muris, Merckelbach, Otgaar, and
   Meijer]{murisMalevolentSideHuman2017}
 Peter Muris, Harald Merckelbach, Henry Otgaar, and Ewout Meijer.
@@ -44,6 +762,401 @@ Peter Muris, Harald Merckelbach, Henry Otgaar, and Ewout Meijer.
   (2):\penalty0 183--204, 2017.
 \newblock ISSN 1745-6924.
 \newblock \doi{10.1177/1745691616666070}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Murphy et~al.(2011)Murphy, Ackermann, and
+  Handgraaf]{murphyMeasuringSocialValue2011}
+Ryan~O. Murphy, Kurt~A. Ackermann, and Michel Handgraaf.
+\newblock Measuring {{Social Value Orientation}}.
+\newblock \emph{SSRN Electronic Journal}, 2011.
+\newblock ISSN 1556-5068.
+\newblock \doi{10.2139/ssrn.1804189}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Nisan(2007)]{nisanAlgorithmicGameTheory2007}
+Noam Nisan,  editor.
+\newblock \emph{Algorithmic Game Theory}.
+\newblock {Cambridge University Press}, {Cambridge ; New York}, 2007.
+\newblock ISBN 978-0-521-87282-9.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Norberg and Horne(2014)]{norbergCopingInformationRequests2014}
+Patricia~A. Norberg and Daniel~R. Horne.
+\newblock Coping with information requests in marketing exchanges: An
+  examination of pre-post affective control and behavioral coping.
+\newblock \emph{Journal of the Academy of Marketing Science}, 42\penalty0
+  (4):\penalty0 415--429, July 2014.
+\newblock ISSN 1552-7824.
+\newblock \doi{10.1007/s11747-013-0361-6}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Padyab(2018)]{padyabExploringImpactsSecondary2018}
+Ali Padyab.
+\newblock Exploring {{Impacts}} of {{Secondary Information Use}} on
+  {{Individual Privacy}}.
+\newblock 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Paulhus and Williams(2002)]{paulhusDarkTriadPersonality2002}
+Delroy~L Paulhus and Kevin~M Williams.
+\newblock The {{Dark Triad}} of personality: {{Narcissism}},
+  {{Machiavellianism}}, and psychopathy.
+\newblock \emph{Journal of Research in Personality}, 36\penalty0 (6):\penalty0
+  556--563, December 2002.
+\newblock ISSN 0092-6566.
+\newblock \doi{10/d2jxm9}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Pu and Grossklags(2016)]{puModelFactorsInfluencing2016}
+Yu~Pu and Jens Grossklags.
+\newblock Towards a {{Model}} on the {{Factors Influencing Social App Users}}'
+  {{Valuation}} of {{Interdependent Privacy}}.
+\newblock \emph{Proceedings on Privacy Enhancing Technologies}, 2016\penalty0
+  (2):\penalty0 61--81, April 2016.
+\newblock ISSN 2299-0984.
+\newblock \doi{10.1515/popets-2016-0005}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[{Raynes-Goldie}(2010)]{raynes-goldieAliasesCreepingWall2010}
+Kate {Raynes-Goldie}.
+\newblock Aliases, creeping, and wall cleaning: {{Understanding}} privacy in
+  the age of {{Facebook}}.
+\newblock \emph{First Monday}, January 2010.
+\newblock ISSN 1396-0466.
+\newblock \doi{1592766187}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Redman(2013)]{redmanDataCredibilityProblem2013}
+Thomas~C. Redman.
+\newblock Data's {{Credibility Problem}}.
+\newblock \emph{Harvard Business Review}, December 2013.
+\newblock ISSN 0017-8012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Roch et~al.(2000)Roch, Lane, Samuelson, Allison, and
+  Dent]{rochCognitiveLoadEquality2000}
+null Roch, null Lane, null Samuelson, null Allison, and null Dent.
+\newblock Cognitive {{Load}} and the {{Equality Heuristic}}: {{A Two-Stage
+  Model}} of {{Resource Overconsumption}} in {{Small Groups}}.
+\newblock \emph{Organizational Behavior and Human Decision Processes},
+  83\penalty0 (2):\penalty0 185--212, November 2000.
+\newblock ISSN 0749-5978.
+\newblock \doi{10.1006/obhd.2000.2915}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Roch and Samuelson(1997)]{rochEffectsEnvironmentalUncertainty1997}
+Sylvia~G. Roch and Charles~D. Samuelson.
+\newblock Effects of environmental uncertainty and social value orientation in
+  resource dilemmas.
+\newblock \emph{Organizational Behavior and Human Decision Processes},
+  70\penalty0 (3):\penalty0 221--235, 1997.
+\newblock ISSN 1095-9920.
+\newblock \doi{10.1006/obhd.1997.2707}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Rockenbach et~al.(2020)Rockenbach, Sadrieh, and
+  Schielke]{rockenbachProvidingPersonalInformation2020}
+B.~Rockenbach, A.~Sadrieh, and A.~Schielke.
+\newblock Providing personal information to the benefit of others.
+\newblock \emph{PLoS ONE}, 15\penalty0 (8 August), 2020.
+\newblock \doi{10.1371/journal.pone.0237183}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Romele et~al.(2017)Romele, Gallino, Emmenegger, and
+  Gorgone]{romelePanopticismNotEnough2017a}
+Alberto Romele, Francesco Gallino, Camilla Emmenegger, and Daniele Gorgone.
+\newblock Panopticism is not {{Enough}}: {{Social Media}} as {{Technologies}}
+  of {{Voluntary Servitude}}.
+\newblock \emph{Surveillance \&amp; Society}, 15\penalty0 (2):\penalty0 204,
+  2017.
+\newblock ISSN 1477-7487.
+\newblock \doi{10.24908/ss.v15i2.6021}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Rosenberg et~al.(2018)Rosenberg, Confessore, and
+  Cadwalladr]{rosenbergHowTrumpConsultants2018}
+Matthew Rosenberg, Nicholas Confessore, and Carole Cadwalladr.
+\newblock How {{Trump Consultants Exploited}} the {{Facebook Data}} of
+  {{Millions}}.
+\newblock \emph{The New York Times}, March 2018.
+\newblock ISSN 0362-4331.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Salinas()]{salinasZuckerbergCambridgeAnalytica}
+Sara Salinas.
+\newblock Zuckerberg on {{Cambridge Analytica}}: '{{We}} have a responsibility
+  to protect your data, and if we can't then we don't deserve to serve you'.
+\newblock
+  https://www.cnbc.com/2018/03/21/zuckerberg-statement-on-cambridge-analytica.html.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Samuelson(1993)]{samuelsonMultiattributeEvaluationApproach1993}
+Charles~D. Samuelson.
+\newblock A multiattribute evaluation approach to structural change in resource
+  dilemmas.
+\newblock \emph{Organizational Behavior and Human Decision Processes},
+  55\penalty0 (2):\penalty0 298--324, 1993.
+\newblock ISSN 1095-9920.
+\newblock \doi{10.1006/obhd.1993.1035}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Schyff et~al.(2020)Schyff, Flowerday, and
+  Furnell]{schyffDuplicitousSocialMedia2020}
+K.V.D. Schyff, S.~Flowerday, and S.~Furnell.
+\newblock Duplicitous social media and data surveillance: {{An}} evaluation of
+  privacy risk.
+\newblock \emph{Computers and Security}, 94, 2020.
+\newblock \doi{10.1016/j.cose.2020.101822}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Smith()]{smithThereOpenSecret}
+Allan Smith.
+\newblock There's an open secret about {{Cambridge Analytica}} in the political
+  world: {{It}} doesn't have the 'secret sauce' it claims.
+\newblock
+  https://www.businessinsider.com/cambridge-analytica-facebook-scandal-trump-cruz-operatives-2018-3.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Smith et~al.(1996)Smith, Milberg, and
+  Burke]{smithInformationPrivacyMeasuring1996}
+H.~J. Smith, S.~Milberg, and Sandra~J. Burke.
+\newblock Information {{Privacy}}: {{Measuring Individuals}}' {{Concerns About
+  Organizational Practices}}.
+\newblock \emph{MIS Q.}, 1996.
+\newblock \doi{10.2307/249477}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Smout and Goodman(2019)]{smoutFacebookAgreesPay2019}
+Alistair Smout and David Goodman.
+\newblock Facebook agrees to pay {{UK}} fine over {{Cambridge Analytica}}
+  scandal.
+\newblock \emph{Reuters}, October 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Span()]{spanFacebookCEOMark}
+C~Span.
+\newblock Facebook {{CEO Mark Zuckerberg Senate Hearing}} on {{Data
+  Protection}}.
+\newblock
+  https://www.c-span.org/video/?443543-1/facebook-ceo-mark-zuckerberg-testifies-data-protection\%20Accessed\%204/15/18\#.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Spiekermann et~al.(2022)Spiekermann, Krasnova, Hinz, Baumann, Benlian,
+  Gimpel, Heimbach, K{\"o}ster, Maedche, Niehaves, Risius, and
+  Trenz]{spiekermannValuesEthicsInformation2022}
+S.~Spiekermann, H.~Krasnova, O.~Hinz, A.~Baumann, A.~Benlian, H.~Gimpel,
+  I.~Heimbach, A.~K{\"o}ster, A.~Maedche, B.~Niehaves, M.~Risius, and M.~Trenz.
+\newblock Values and {{Ethics}} in {{Information Systems}}: {{A
+  State-of-the-Art Analysis}} and {{Avenues}} for {{Future Research}}.
+\newblock \emph{Business and Information Systems Engineering}, 64\penalty0
+  (2):\penalty0 247--264, 2022.
+\newblock ISSN 2363-7005.
+\newblock \doi{10.1007/s12599-021-00734-8}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Spiekermann and Christl(2016)]{spiekermannNetworksControlReport2016}
+Sarah Spiekermann and Wolfie Christl.
+\newblock \emph{Networks of {{Control}} \textendash{} {{A Report}} on
+  {{Corporate Surveillance}}, {{Digital Tracking}}}.
+\newblock January 2016.
+\newblock ISBN 978-3-7089-1473-2.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Tang and Wang(2021)]{tangHowChineseWeb2021}
+Y.~Tang and L.~Wang.
+\newblock How {{Chinese}} web users value their personal information: {{An}}
+  empirical study on {{WeChat}} users.
+\newblock \emph{Psychology Research and Behavior Management}, 14:\penalty0
+  987--999, 2021.
+\newblock ISSN 1179-1578.
+\newblock \doi{10.2147/PRBM.S318139}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Tawnie and Kisalay(2017)]{tawnieInterdependentPrivacy2017}
+Chutikulrungsee~Tharntip Tawnie and Burmeister~Oliver Kisalay.
+\newblock Interdependent {{Privacy}}.
+\newblock \emph{The ORBIT Journal}, 1\penalty0 (2):\penalty0 1--14, January
+  2017.
+\newblock ISSN 2515-8562.
+\newblock \doi{10.29297/orbit.v1i2.38}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[{van der Schyff} et~al.(2020{\natexlab{a}}){van der Schyff},
+  Flowerday, and Lowry]{vanderschyffInformationPrivacyBehavior2020}
+K.~{van der Schyff}, S.~Flowerday, and P.B. Lowry.
+\newblock Information privacy behavior in the use of {{Facebook}} apps: {{A}}
+  personality-based vulnerability assessment.
+\newblock \emph{Heliyon}, 6\penalty0 (8), 2020{\natexlab{a}}.
+\newblock ISSN 2405-8440.
+\newblock \doi{10.1016/j.heliyon.2020.e04714}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[{van der Schyff} et~al.(2020{\natexlab{b}}){van der Schyff},
+  Flowerday, and Lowry]{vanderschyffInformationPrivacyBehavior2020a}
+Karl {van der Schyff}, Stephen Flowerday, and Paul~Benjamin Lowry.
+\newblock Information privacy behavior in the use of {{Facebook}} apps: {{A}}
+  personality-based vulnerability assessment.
+\newblock \emph{Heliyon}, 6\penalty0 (8):\penalty0 e04714, August
+  2020{\natexlab{b}}.
+\newblock ISSN 2405-8440.
+\newblock \doi{10.1016/j.heliyon.2020.e04714}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Vernon et~al.(2008)Vernon, Villani, Vickers, and
+  Harris]{vernonBehavioralGeneticInvestigation2008}
+Philip~A. Vernon, Vanessa~C. Villani, Leanne~C. Vickers, and Julie~Aitken
+  Harris.
+\newblock A behavioral genetic investigation of the {{Dark Triad}} and the
+  {{Big}} 5.
+\newblock \emph{Personality and Individual Differences}, 44\penalty0
+  (2):\penalty0 445--452, 2008.
+\newblock ISSN 1873-3549.
+\newblock \doi{10.1016/j.paid.2007.09.007}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Wall et~al.(2016)Wall, Lowry, and
+  Barlow]{wallOrganizationalViolationsExternally2016}
+Jeffrey~D. Wall, P.~Lowry, and Jordan~B. Barlow.
+\newblock Organizational {{Violations}} of {{Externally Governed Privacy}} and
+  {{Security Rules}}: {{Explaining}} and {{Predicting Selective Violations
+  Under Conditions}} of {{Strain}} and {{Excess}}.
+\newblock \emph{J. Assoc. Inf. Syst.}, 2016.
+\newblock \doi{10.17705/1JAIS.00420}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Wessels et~al.(2019)Wessels, Gerlach, and
+  Wagner]{wesselsSellNotSell2019}
+N.~Wessels, J.P. Gerlach, and A.~Wagner.
+\newblock To sell or not to sell - {{Antecedents}} of individuals'
+  willingness-to-sell personal information on data-selling platforms.
+\newblock  in \emph{40th {{International Conference}} on {{Information
+  Systems}}, {{ICIS}} 2019}, 2019.
+\newblock ISBN 978-0-9966831-9-7.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Wirth et~al.(2022)Wirth, Maier, Laumer, and
+  Weitzel]{wirthLazinessExplanationPrivacy2022}
+J.~Wirth, C.~Maier, S.~Laumer, and T.~Weitzel.
+\newblock Laziness as an explanation for the privacy paradox: A longitudinal
+  empirical investigation.
+\newblock \emph{Internet Research}, 32\penalty0 (1):\penalty0 24--54, 2022.
+\newblock ISSN 1066-2243.
+\newblock \doi{10/gn9kh7}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Young and {Quan-Haase}(2013)]{youngPrivacyProtectionStrategies2013}
+Alyson~Leigh Young and Anabel {Quan-Haase}.
+\newblock Privacy {{Protection Strategies}} on {{Facebook}}.
+\newblock \emph{Information, Communication \& Society}, 16\penalty0
+  (4):\penalty0 479--500, May 2013.
+\newblock ISSN 1369-118X.
+\newblock \doi{10.1080/1369118X.2013.777757}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Zeelenberg et~al.(2008)Zeelenberg, Nelissen, Breugelmans, and
+  Pieters]{zeelenbergEmotionSpecificityDecision2008}
+Marcel Zeelenberg, Rob M.~A. Nelissen, Seger~M. Breugelmans, and Rik Pieters.
+\newblock On emotion specificity in decision making: {{Why}} feeling is for
+  doing.
+\newblock \emph{Judgment and Decision Making}, 3\penalty0 (1):\penalty0 18--27,
+  2008.
+\newblock ISSN 1930-2975.
 
 \end{LTRbibitems}
 
