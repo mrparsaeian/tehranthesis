@@ -323,3 +323,167 @@ ATTENTION: default value of option mesa_glthread overridden by environment.
 [Parent 4052, Main Thread] WARNING: g_object_ref: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
 
 (firefox:4052): GLib-GObject-CRITICAL **: 11:07:58.789: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gtk-doc /usr/share/gtk-doc none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+Gtk-Message: 12:52:13.650: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+(firefox:11003): Gtk-WARNING **: 13:02:16.130: Could not find the icon 'user-home-symbolic-ltr'. The 'hicolor' theme
+was not found either, perhaps you need to install it.
+You can get a copy from:
+	http://icon-theme.freedesktop.org/releases
+[2023-02-06T11:44:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T11:44:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T11:44:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T11:44:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2665710545”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 15:22:13.557: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2665710545”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_4241346068”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 15:22:13.574: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_4241346068”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2166278418”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 15:22:15.119: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2166278418”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3431123789”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:37:46.898: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3431123789”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_971721478”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:37:46.900: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_971721478”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1797799885”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:38:14.763: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1797799885”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1630874352”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:38:19.240: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1630874352”
+[2023-02-06T14:14:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:14:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:14:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:14:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:14:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:14:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:14:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:14:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3526136973”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:44:03.711: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3526136973”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2845947103”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:48:22.127: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2845947103”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2219530677”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:27.241: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2219530677”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_340034145”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:27.242: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_340034145”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1642967341”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:32.508: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1642967341”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1354716222”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:37.775: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1354716222”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_434337256”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:38.548: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_434337256”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1464788901”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:38.548: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1464788901”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2002675079”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:38.549: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2002675079”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3355480394”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:39.299: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3355480394”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_99962212”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:39.300: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_99962212”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2029982571”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:40.823: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2029982571”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3030013628”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:43.078: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3030013628”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2172962057”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:45.342: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2172962057”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2568753709”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:46.854: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_2568753709”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3571734558”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:46.855: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3571734558”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1264626571”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:50:50.669: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1264626571”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_539105674”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 17:56:34.448: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_539105674”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_966073035”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:07:31.054: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_966073035”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1738992043”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:07:44.606: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1738992043”
+[2023-02-06T14:38:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:05Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3645996044”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:08:10.873: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3645996044”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1244022081”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:08:11.626: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1244022081”
+[2023-02-06T14:38:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:38:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:39:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:39:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:39:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-06T14:39:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3029693103”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:09:22.261: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3029693103”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3315342637”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:09:22.262: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3315342637”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_4191542975”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:09:39.555: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_4191542975”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_227246450”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:10:32.126: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_227246450”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3909013711”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:10:46.417: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3909013711”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3099212622”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:10:55.413: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3099212622”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3826017489”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:11:03.710: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3826017489”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3368676756”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:11:04.472: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_3368676756”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_603575134”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:11:11.982: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_603575134”
+[Parent 11003, Main Thread] WARNING: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1494886499”: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+** (firefox:11003): WARNING **: 18:17:50.516: OnCloseSessionDone error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/portal/desktop/session/1_137/firefox_com_ant_avdcc_host_1494886499”
+[2023-02-06T14:58:34Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-06T14:58:34Z ERROR viaduct::backend::ffi] Missing HTTP status

@@ -24,14 +24,14 @@
 \contentsline {section}{\numberline {4-1}پیش پردازش داده و نتایج اولیه}{31}{section.4.1}%
 \contentsline {section}{\numberline {4-2}ویژگی‌های نمونه}{32}{section.4.2}%
 \contentsline {section}{\numberline {4-3}نتایج آزمون جهت‌گیری ارزش اجتماعی}{32}{section.4.3}%
-\contentsline {chapter}{\numberline {5}بحث و نتیجه‌گیری}{42}{chapter.5}%
-\contentsline {section}{\numberline {5-1}بررسی رفتارهای مشاهده شده }{42}{section.5.1}%
-\contentsline {section}{\numberline {5-2}نتایج مربوط به سه‌گانه تاریک}{42}{section.5.2}%
-\contentsline {section}{\numberline {5-3} نتایج مربوط به \lr {SVO} }{43}{section.5.3}%
-\contentsline {section}{\numberline {5-4}محدودیت‌ها}{43}{section.5.4}%
-\contentsline {section}{\numberline {5-5}پیشنهادها}{44}{section.5.5}%
-\contentsline {chapter}{مراجع}{45}{chapter*.12}%
+\contentsline {chapter}{\numberline {5}بحث و نتیجه‌گیری}{43}{chapter.5}%
+\contentsline {section}{\numberline {5-1}بررسی رفتارهای مشاهده شده }{43}{section.5.1}%
+\contentsline {section}{\numberline {5-2}نتایج مربوط به سه‌گانه تاریک}{43}{section.5.2}%
+\contentsline {section}{\numberline {5-3} نتایج مربوط به \lr {SVO} }{44}{section.5.3}%
+\contentsline {section}{\numberline {5-4}محدودیت‌ها}{44}{section.5.4}%
+\contentsline {section}{\numberline {5-5}پیشنهادها}{45}{section.5.5}%
+\contentsline {chapter}{مراجع}{46}{chapter*.12}%
  \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
-\contentsline {chapter}{\numberline {آ}تصاویر آزمون مبتنی بر وب}{56}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {آ}تصاویر آزمون مبتنی بر وب}{57}{appendix.Alph1}%
 \contentsline {chapter}{واژه نامه فارسی به انگلیسی}{اول}{appendix.Alph1}%
 \contentsline {chapter}{واژه نامه انگلیسی به فارسی}{دوم}{appendix.Alph1}%

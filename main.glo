@@ -192,5 +192,5 @@
 (indexentry :tkey (("\\lr {Information privacy}" "\\glossentry{Information privacy}") ) :locref "{}{25}" :attr "pageglsnumberformat" )
 (indexentry :tkey (("\\lr {Competitive}" "\\glossentry{Competitive}") ) :locref "{}{32}" :attr "pageglsnumberformat" )
 (indexentry :tkey (("\\lr {Individualistic}" "\\glossentry{Individualistic}") ) :locref "{}{32}" :attr "pageglsnumberformat" )
-(indexentry :tkey (("\\lr {Prolific}" "\\glossentry{Prolific}") ) :locref "{}{43}" :attr "pageglsnumberformat" )
-(indexentry :tkey (("\\lr {Exclusion criteria}" "\\glossentry{Exclusion criteria}") ) :locref "{}{43}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("\\lr {Prolific}" "\\glossentry{Prolific}") ) :locref "{}{44}" :attr "pageglsnumberformat" )
+(indexentry :tkey (("\\lr {Exclusion criteria}" "\\glossentry{Exclusion criteria}") ) :locref "{}{44}" :attr "pageglsnumberformat" )
