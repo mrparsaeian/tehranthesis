@@ -17,17 +17,18 @@ Reallocated glb_str_ptr (elt_size=8) to 10 items from 0.
 Reallocated global_strs (elt_size=200001) to 10 items from 0.
 Reallocated glb_str_end (elt_size=8) to 10 items from 0.
 Database file #1: ./tex/MyLibrary.bib
-Warning--I didn't find a database entry for "karwatzkiMultidimensionalNaturePrivacy"
-Warning--I didn't find a database entry for "IcekAjzenHomepage"
-Warning--I didn't find a database entry for "SuspendingCambridgeAnalytica2018"
-Warning--I didn't find a database entry for "PdarcheSvoApplication"
+Warning--I didn't find a database entry for "mhmdpwrBrrsyTthyrTywry2022"
 Warning--I didn't find a database entry for "ywsfyWyjgyHyRwn2016"
 Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
-Warning--empty journal in shrnzStndrdszyPrsshnmhKyfyt1385
+Warning--empty journal in ajzenCONSTRUCTINGTHEORYPLANNEDa
+Warning--empty year in ajzenCONSTRUCTINGTHEORYPLANNEDa
+Warning--empty year in ajzenIcekAjzenHomepage
 Warning--empty journal in cavoukianDiscussionPaperPrivacy2009
+Warning--empty year in darchePdarcheSvoApplication
 Warning--empty journal in dillmanMultipleAnswerQuestions2003
 Warning--empty year in kangFacebookSaysCambridge
 Warning--empty publisher in machovaDiscourseSurveillancePrivacy2021
+Warning--empty journal in madisonChallengeCitiesGoverning2022
 Warning--empty journal in padyabExploringImpactsSecondary2018
 Warning--empty year in salinasZuckerbergCambridgeAnalytica
 Warning--empty year in smithThereOpenSecret
@@ -35,10 +36,10 @@ Warning--empty year in spanFacebookCEOMark
 Warning--empty publisher in spiekermannNetworksControlReport2016
 
 Here's how much of BibTeX's memory you used:
- Cites:                92 out of 750
- Fields:             2155 out of 5000
- Hash table:        29675 out of 30000
- Strings:            1456 out of 30000
- Free string pool:  32023 out of 65000
+ Cites:                93 out of 750
+ Fields:             2372 out of 5000
+ Hash table:        29679 out of 30000
+ Strings:            1438 out of 30000
+ Free string pool:  31427 out of 65000
  Wizard functions:   3218 out of 6000
-(There were 15 warnings)
+(There were 16 warnings)

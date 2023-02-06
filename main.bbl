@@ -1,35 +1,9 @@
-\begin{thebibliography}{92}
+\begin{thebibliography}{93}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem[سحرناز et~al.(1385)سحرناز, علي, كوروش, كاظم,
-  and سيدرضا]{shrnzStndrdszyPrsshnmhKyfyt1385}
-نجات سحرناز, منتظري علي, هلاكويي~ناييني
-  كوروش, محمد كاظم, and مجدزاده سيدرضا.
-\newblock {استانداردسازي پرسشنامه كيفيت زندگي
-  سازمان جهاني بهداشت (WHOQOL-BREF): ترجمه و روان
-  سنجي گونه ايراني}.
-\newblock 4\penalty0 (4):\penalty0 1--12, January 1385.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem[محمدپور and کیاکوری(2022)]{mhmdpwrBrrsyTthyrTywry2022}
-زهرا محمدپور and داود کیاکوری.
-\newblock {بررسی تاثیر تئوری رفتار برنامه ریزی
-  شده و رفتار فرصت طلبانه بر کنش حسابگرانه
-  کارکنانحسابداران)}.
-\newblock \emph{پژوهش های مالی و رفتاری در
-  حسابداری}, 1\penalty0 (3), February 2022.
-\newblock \doi{10.30486/fbra.2021.1945782.1050}.
-
-\end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
@@ -53,6 +27,24 @@ David Agogo.
   December 2021.
 \newblock ISSN 1422-8890.
 \newblock \doi{10.1007/s12525-020-00437-0}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Ajzen({\natexlab{a}})]{ajzenCONSTRUCTINGTHEORYPLANNEDa}
+Icek Ajzen.
+\newblock {{CONSTRUCTING A THEORY OF PLANNED BEHAVIOR QUESTIONNAIRE}}.
+\newblock page~7, {\natexlab{a}}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Ajzen({\natexlab{b}})]{ajzenIcekAjzenHomepage}
+Icek Ajzen.
+\newblock Icek {{Ajzen}}: {{Homepage}}.
+\newblock http://people.umass.edu/\textasciitilde aizen/, {\natexlab{b}}.
 
 \end{LTRbibitems}
 
@@ -185,34 +177,6 @@ Ann Cavoukian.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem[Chandra et~al.(2003)Chandra, Deepthivarma, Jairam, and
-  Thomas]{chandraRelationshipPsychologicalMorbidity2003}
-Prabha~S Chandra, S~Deepthivarma, K.~R Jairam, and Tinku Thomas.
-\newblock Relationship of psychological morbidity and quality of life to
-  illness-related disclosure among {{HIV-infected}} persons.
-\newblock \emph{Journal of Psychosomatic Research}, 54\penalty0 (3):\penalty0
-  199--203, March 2003.
-\newblock ISSN 0022-3999.
-\newblock \doi{10.1016/S0022-3999(02)00567-6}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem[Chang et~al.(2015)Chang, Chen, and
-  Salmon]{changInvestigationAverageBid2015}
-Wei-Shiun Chang, Bo~Chen, and Timothy~C. Salmon.
-\newblock An {{Investigation}} of the {{Average Bid Mechanism}} for
-  {{Procurement Auctions}}.
-\newblock \emph{Management Science}, 61\penalty0 (6):\penalty0 1237--1254,
-  2015.
-\newblock ISSN 0025-1909.
-\newblock \doi{10.1287/mnsc.2013.1893}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem[Chua et~al.(2021)Chua, Ooi, and
   Herbland]{chuaEffectsDifferentPersonal2021}
 H.N. Chua, J.S. Ooi, and A.~Herbland.
@@ -243,6 +207,16 @@ M.~Culnan.
   {{Consumer Attitudes Toward Secondary Information Use}}.
 \newblock \emph{MIS Q.}, 1993.
 \newblock \doi{10.2307/249775}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Darche()]{darchePdarcheSvoApplication}
+Peter Darche.
+\newblock Pdarche/svo: {{An}} application for easily administering the {{Social
+  Value Orientation Slider}} measure.
+\newblock https://github.com/pdarche/svo.
 
 \end{LTRbibitems}
 
@@ -300,13 +274,24 @@ M.~{de Zwart}, S.~Humphreys, and B.~Van~Dissel.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem[Demmers et~al.(2021)Demmers, Weihrauch, and
+\bibitem[Demmers et~al.(2021{\natexlab{a}})Demmers, Weihrauch, and
   Thompson]{demmersYourDataAre2021}
 Joris Demmers, Andrea Weihrauch, and Frauke Thompson.
 \newblock Your {{Data}} are ({{Not}}) {{My Data}}: {{The Role}} of {{Social
   Value Orientation}} in {{Sharing Data About Others}}.
-\newblock \emph{Journal of Consumer Psychology}, May 2021.
+\newblock \emph{Journal of Consumer Psychology}, May 2021{\natexlab{a}}.
 \newblock \doi{10.1002/jcpy.1255}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Demmers et~al.(2021{\natexlab{b}})Demmers, Weihrauch, and
+  Mattison~Thompson]{demmersYourDataNot2021}
+Joris Demmers, Andrea~N. Weihrauch, and Frauke~H. Mattison~Thompson.
+\newblock Your data is (not) my data : {{The}} role of social value orientation
+  in sharing data about others.
+\newblock \emph{Journal of Consumer Psychology}, 2021{\natexlab{b}}.
 
 \end{LTRbibitems}
 
@@ -361,6 +346,16 @@ Tamara Dinev and Paul Hart.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem[Dong et~al.(2021)Dong, Wang, Liu, Han, and
+  Zhang]{dongBirdsFeatherFlock2021}
+Heng Dong, Tonghan Wang, Jiayuan Liu, Chi Han, and Chongjie Zhang.
+\newblock Birds of a {{Feather Flock Together}}: {{A Close Look}} at
+  {{Cooperation Emergence}} via {{Multi-Agent RL}}, June 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem[Doswell et~al.(2011)Doswell, Braxter, Cha, and
   Kim]{doswellTestingTheoryReasoned2011}
 Willa~M. Doswell, Betty~J. Braxter, EunSeok Cha, and Kevin~H. Kim.
@@ -406,19 +401,6 @@ Maddalena Favaretto, Eva De~Clercq, and Bernice~Simone Elger.
   2019.
 \newblock ISSN 2196-1115.
 \newblock \doi{10.1186/s40537-019-0177-4}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem[Galavotti et~al.(2018)Galavotti, Moretti, and
-  Valbonesi]{galavottiSophisticatedBiddersBeautyContest2018}
-Stefano Galavotti, Luigi Moretti, and Paola Valbonesi.
-\newblock Sophisticated {{Bidders}} in {{Beauty-Contest Auctions}}.
-\newblock \emph{American Economic Journal: Microeconomics}, 10\penalty0
-  (4):\penalty0 1--26, November 2018.
-\newblock ISSN 1945-7669.
-\newblock \doi{10.1257/mic.20150240}.
 
 \end{LTRbibitems}
 
@@ -488,19 +470,6 @@ Paul Grewal.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem[Group(1998)]{groupDevelopmentWorldHealth1998}
-The~Whoqol Group.
-\newblock Development of the {{World Health Organization WHOQOL-BREF Quality}}
-  of {{Life Assessment}}.
-\newblock \emph{Psychological Medicine}, 28\penalty0 (3):\penalty0 551--558,
-  May 1998.
-\newblock ISSN 1469-8978, 0033-2917.
-\newblock \doi{10.1017/S0033291798006667}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem[Hartung et~al.(2019)Hartung, Krohn, and
   Pirschtat]{hartungBetterItsReputation2019}
 F.-M. Hartung, C.~Krohn, and M.~Pirschtat.
@@ -557,20 +526,6 @@ George Holford.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem[Ja{\'s}kowski and
-  Czarnigowska(2019)]{jaskowskiContractorBidPricing2019}
-Piotr Ja{\'s}kowski and Agata Czarnigowska.
-\newblock Contractor's bid pricing strategy: A model with correlation among
-  competitors' prices.
-\newblock \emph{Open Engineering}, 9\penalty0 (1):\penalty0 159--166, January
-  2019.
-\newblock ISSN 2391-5439.
-\newblock \doi{10.1515/eng-2019-0021}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem[Jonason and Webster(2010)]{jonasonDirtyDozenConcise2010}
 Peter~K. Jonason and Gregory~D. Webster.
 \newblock The dirty dozen: {{A}} concise measure of the dark triad.
@@ -614,6 +569,18 @@ Cecilia Kang and Sheera Frenkel.
   {{Million Users}} - {{The New York Times}}.
 \newblock
   https://www.nytimes.com/2018/04/04/technology/mark-zuckerberg-testify-congress.html.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Karwatzki et~al.(2022)Karwatzki, Trenz, and
+  Veit]{karwatzkiMultidimensionalNaturePrivacy2022}
+Sabrina Karwatzki, Manuel Trenz, and Daniel Veit.
+\newblock The multidimensional nature of privacy risks: {{Conceptualisation}},
+  measurement and implications for digital services.
+\newblock \emph{Information Systems Journal}, April 2022.
+\newblock \doi{10.1111/isj.12386}.
 
 \end{LTRbibitems}
 
@@ -676,23 +643,22 @@ Jonas Lerman.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem[Lusk and Shogren(2007)]{luskExperimentalAuctionsMethods2007}
-Jayson Lusk and Jason~F. Shogren.
-\newblock \emph{Experimental Auctions: Methods and Applications in Economic and
-  Marketing Research}.
-\newblock Quantitative Methods for Applied Economics and Business Research.
-  {Cambridge University Press}, {Cambridge ; New York}, 2007.
-\newblock ISBN 978-0-521-85516-7 978-0-521-67124-8.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem[Machova(2021)]{machovaDiscourseSurveillancePrivacy2021}
 Tereza Machova.
 \newblock \emph{The Discourse of Surveillance and Privacy: Biopower and
   Panopticon in the {{Facebook-Cambridge Analytica}} Scandal}.
 \newblock 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Madison et~al.(2022)Madison, Sanfilippo, and
+  Frischmann]{madisonChallengeCitiesGoverning2022}
+Michael~J. Madison, Madelyn~Rose Sanfilippo, and Brett~M. Frischmann.
+\newblock The {{Challenge}} for {{Cities}} of {{Governing Spatial Data
+  Privacy}}.
+\newblock August 2022.
 
 \end{LTRbibitems}
 
@@ -735,6 +701,18 @@ Laura {Mart{\'i}nez-Carrasco}, M.~Brugarolas, Africa {Martinez-Poveda}, and
 \newblock \emph{Spanish Journal of Agricultural Research}, 13:\penalty0 e0109,
   December 2015.
 \newblock \doi{10.5424/sjar/2015134-8233}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[McCallister et~al.(2010)McCallister, Grance, and
+  Scarfone]{mccallisterGuideProtectingConfidentiality2010a}
+E~McCallister, T~Grance, and K~A Scarfone.
+\newblock Guide to protecting the confidentiality of {{Personally Identifiable
+  Information}} ({{PII}}).
+\newblock Technical Report NIST SP 800-122, {National Institute of Standards
+  and Technology}, {Gaithersburg, MD}, 2010.
 
 \end{LTRbibitems}
 
@@ -943,6 +921,17 @@ Charles~D. Samuelson.
   55\penalty0 (2):\penalty0 298--324, 1993.
 \newblock ISSN 1095-9920.
 \newblock \doi{10.1006/obhd.1993.1035}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Sanfilippo et~al.(2021)Sanfilippo, Frischmann, and
+  Strandburg]{sanfilippoGoverningPrivacyKnowledge2021}
+Madelyn~Rose Sanfilippo, Brett~M. Frischmann, and Katherine~J. Strandburg.
+\newblock \emph{Governing {{Privacy}} in {{Knowledge Commons}}}.
+\newblock {Cambridge University Press}, March 2021.
+\newblock ISBN 978-1-108-48514-2.
 
 \end{LTRbibitems}
 
