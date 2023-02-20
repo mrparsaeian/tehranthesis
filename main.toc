@@ -1,7 +1,7 @@
-\contentsline {chapter}{فهرست تصاویر}{پ}{section*.1}%
-\contentsline {chapter}{فهرست جداول}{ث}{section*.2}%
-\contentsline {chapter}{فهرست برنامه‌ها}{ج}{chapter*.3}%
-\contentsline {chapter}{فهرست اختصارات}{چ}{chapter*.3}%
+\contentsline {chapter}{فهرست تصاویر}{ت}{section*.1}%
+\contentsline {chapter}{فهرست جداول}{ج}{section*.2}%
+\contentsline {chapter}{فهرست برنامه‌ها}{چ}{chapter*.3}%
+\contentsline {chapter}{فهرست اختصارات}{ح}{chapter*.3}%
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
 \contentsline {section}{\numberline {1-1}نظریه رفتار برنامه‌ریزی‌شده و اهمیت استفاده ثانویه از اطلاعات}{5}{section.1.1}%
 \contentsline {section}{\numberline {1-2}نظریه‌ها}{8}{section.1.2}%
@@ -13,25 +13,32 @@
 \contentsline {chapter}{\numberline {3}روش تحقیق}{14}{chapter.3}%
 \contentsline {section}{\numberline {3-1}نوع پژوهش}{14}{section.3.1}%
 \contentsline {section}{\numberline {3-2}تعریف متغیر‌ها}{14}{section.3.2}%
-\contentsline {subsection}{\numberline {3-2-1}تعریف عملیاتی پارامترهای نظریه رفتار برنامه ریزی شده }{15}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3-2-2}تعریف نظری متغیر جهت‌گیری ارزش اجتماعی}{19}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3-2-3}تعریف عملیاتی متغیر جهت‌گیری ارزش اجتماعی}{20}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3-2-4}تعریف نظری متغیر سه‌گانه تاریک}{26}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3-2-5}تعریف عملیاتی سه گانه تاریک}{26}{subsection.3.2.5}%
-\contentsline {section}{\numberline {3-3}جامعه آماری و روش نمونه‌گیری}{27}{section.3.3}%
-\contentsline {subsection}{\numberline {3-3-1}روش اجرا و مراحل آزمایش}{28}{subsection.3.3.1}%
-\contentsline {chapter}{\numberline {4}نتایج}{31}{chapter.4}%
-\contentsline {section}{\numberline {4-1}پیش پردازش داده و نتایج اولیه}{31}{section.4.1}%
-\contentsline {section}{\numberline {4-2}ویژگی‌های نمونه}{32}{section.4.2}%
-\contentsline {section}{\numberline {4-3}نتایج آزمون جهت‌گیری ارزش اجتماعی}{32}{section.4.3}%
-\contentsline {chapter}{\numberline {5}بحث و نتیجه‌گیری}{43}{chapter.5}%
-\contentsline {section}{\numberline {5-1}بررسی رفتارهای مشاهده شده }{43}{section.5.1}%
-\contentsline {section}{\numberline {5-2}نتایج مربوط به سه‌گانه تاریک}{43}{section.5.2}%
-\contentsline {section}{\numberline {5-3} نتایج مربوط به \lr {SVO} }{44}{section.5.3}%
-\contentsline {section}{\numberline {5-4}محدودیت‌ها}{44}{section.5.4}%
-\contentsline {section}{\numberline {5-5}پیشنهادها}{45}{section.5.5}%
-\contentsline {chapter}{مراجع}{46}{chapter*.12}%
- \renewcommand \cftchappresnum {پیوست\nobreakspace {}}\setlength {\cftchapnumwidth }{\mylenapp }
-\contentsline {chapter}{\numberline {آ}تصاویر آزمون مبتنی بر وب}{57}{appendix.Alph1}%
-\contentsline {chapter}{واژه نامه فارسی به انگلیسی}{اول}{appendix.Alph1}%
-\contentsline {chapter}{واژه نامه انگلیسی به فارسی}{دوم}{appendix.Alph1}%
+\contentsline {subsection}{\numberline {3-2-1}تعریف نظری متغیر تغییر رفتار}{14}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3-2-2}تعریف عملیاتی متغیر تغییر رفتار}{15}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3-2-3}تعریف نظری متغیر \textit {هنجار ذهنی } و \textit {باور هنجاری از ارزش اطلاعات} خصوصی دیگران}{16}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3-2-4}تعریف عملیاتی پارامترهای نظریه رفتار برنامه ریزی شده }{16}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3-2-5}تعریف نظری متغیر جهت‌گیری ارزش اجتماعی}{20}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3-2-6}تعریف عملیاتی متغیر جهت‌گیری ارزش اجتماعی}{21}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3-2-7}تعریف نظری متغیر تصمیم گیری به اشتراک گذاری اطلاعات خصوصی دیگران}{26}{subsection.3.2.7}%
+\contentsline {subsection}{\numberline {3-2-8}تعریف عملیاتی متغیر تصمیم گیری به اشتراک گذاری اطلاعات خصوصی دیگران}{27}{subsection.3.2.8}%
+\contentsline {subsection}{\numberline {3-2-9}تعریف نظری متغیر سه‌گانه تاریک}{27}{subsection.3.2.9}%
+\contentsline {subsection}{\numberline {3-2-10}تعریف عملیاتی سه گانه تاریک}{28}{subsection.3.2.10}%
+\contentsline {section}{\numberline {3-3}جامعه آماری و روش نمونه‌گیری}{29}{section.3.3}%
+\contentsline {subsection}{\numberline {3-3-1}روش اجرا و مراحل آزمایش}{29}{subsection.3.3.1}%
+\contentsline {chapter}{\numberline {4}نتایج}{32}{chapter.4}%
+\contentsline {section}{\numberline {4-1}پیش پردازش داده و نتایج اولیه}{32}{section.4.1}%
+\contentsline {section}{\numberline {4-2}ویژگی‌های نمونه}{33}{section.4.2}%
+\contentsline {section}{\numberline {4-3}پرسشنامه اطلاعات دموگرافیک}{33}{section.4.3}%
+\contentsline {section}{\numberline {4-4}نتایج آزمون جهت‌گیری ارزش اجتماعی}{47}{section.4.4}%
+\contentsline {section}{\numberline {4-5}تغییر در رفتار \!(قبل و بعد از پرسشنامه دموگرافیک و سه‌گانه‌تاریک و تحت تاثیر تطمیع )}{49}{section.4.5}%
+\contentsline {section}{\numberline {4-6}نتایج آزمون‌های آماری سه‌گانه‌تاریک و رویکرد‌ارزش‌اجتماعی}{49}{section.4.6}%
+\contentsline {section}{\numberline {4-7}نمره سه‌گانه تاریک در زنان و مردان}{56}{section.4.7}%
+\contentsline {chapter}{\numberline {5}بحث و نتیجه‌گیری}{57}{chapter.5}%
+\contentsline {section}{\numberline {5-1}بررسی رفتارهای مشاهده شده }{57}{section.5.1}%
+\contentsline {section}{\numberline {5-2}نتایج مربوط به سه‌گانه تاریک}{57}{section.5.2}%
+\contentsline {section}{\numberline {5-3} نتایج مربوط به \lr {SVO} }{58}{section.5.3}%
+\contentsline {section}{\numberline {5-4}محدودیت‌ها}{58}{section.5.4}%
+\contentsline {section}{\numberline {5-5}پیشنهادها}{59}{section.5.5}%
+\contentsline {chapter}{مراجع}{60}{chapter*.9}%
+\contentsline {chapter}{واژه نامه فارسی به انگلیسی}{اول}{chapter*.9}%
+\contentsline {chapter}{واژه نامه انگلیسی به فارسی}{دوم}{chapter*.9}%

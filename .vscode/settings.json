@@ -1,7 +1,4 @@
 {
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "kite.showWelcomeNotificationOnStartup": false,
   "better-comments.highlightPlainText": true,
   "better-comments.tags": [
@@ -51,9 +48,6 @@
       "italic": false
     }
   ],
-  "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "workbench.editorAssociations": {
     "*.ipynb": "jupyter-notebook",
     "*.sqlite3": "default"
@@ -61,9 +55,6 @@
   "notebook.cellToolbarLocation": {
     "default": "right",
     "jupyter-notebook": "left"
-  },
-  "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[javascript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
@@ -120,6 +111,9 @@
   ],
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
   },
   "terminal.integrated.commandsToSkipShell": ["language-julia.interrupt"],
   "julia.symbolCacheDownload": true,
@@ -264,9 +258,7 @@
   ],
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "idf.adapterTargetName": "esp32",
   "idf.espIdfPath": "/home/master/esp/esp-idf",
   "idf.pythonBinPath": "/home/master/.espressif/python_env/idf4.3_py3.8_env/bin/python",
@@ -291,9 +283,6 @@
   },
   "json.maxItemsComputed": 20000,
   "githubPullRequests.remotes": ["origin", "upstream", "survey-front"],
-  "[css]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "[latex]": {
     "editor.defaultFormatter": "James-Yu.latex-workshop"
   },
@@ -314,5 +303,6 @@
   "editor.stickyScroll.enabled": true,
   "editor.minimap.size": "fill",
   "editor.minimap.showSlider": "always",
-  "workbench.activityBar.visible": false
+  "workbench.activityBar.visible": false,
+  "python.formatting.provider": "autopep8"
 }

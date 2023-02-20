@@ -1,4 +1,4 @@
-\begin{thebibliography}{93}
+\begin{thebibliography}{97}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -165,6 +165,17 @@ Petter~Bae Brandtz{\ae}g, Marika L{\"u}ders, and Jan~H{\aa}vard Skjetne.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem[Campbell and
+  Stanley(2011)]{campbellExperimentalQuasiexperimentalDesigns2011}
+Donald~T. Campbell and Julian~C. Stanley.
+\newblock \emph{Experimental and Quasi-Experimental Designs for Research}.
+\newblock {Wadsworth}, {Belomt, CA}, 2011.
+\newblock ISBN 978-0-395-30787-8.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem[Cavoukian(2009)]{cavoukianDiscussionPaperPrivacy2009}
 Ann Cavoukian.
 \newblock A discussion paper on privacy externalities, security breach
@@ -172,6 +183,15 @@ Ann Cavoukian.
   externalities, security breach notification and the role of independent
   oversight.
 \newblock 2009.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Choueiry()]{choueiryPretestPosttestControlGroup}
+George Choueiry.
+\newblock Pretest-{{Posttest Control Group Design}}: {{An Introduction}}
+  \textendash{} {{QUANTIFYING HEALTH}}.
 
 \end{LTRbibitems}
 
@@ -406,6 +426,18 @@ Maddalena Favaretto, Eva De~Clercq, and Bernice~Simone Elger.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem[Fishbein and Ajzen(2015)]{fishbeinPredictingChangingBehavior2015}
+Martin Fishbein and Icek Ajzen.
+\newblock \emph{Predicting and {{Changing Behavior}}: {{The Reasoned Action
+  Approach}}}.
+\newblock {Psychology Press}, {New York, NY London}, 1st edition edition,
+  November 2015.
+\newblock ISBN 978-1-138-99521-5.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem[Gazdag et~al.(2019)Gazdag, Haude, Hoegl, and
   Muethel]{gazdagNotWantTrust2019}
 Brooke~Ann Gazdag, Marie Haude, Martin Hoegl, and Miriam Muethel.
@@ -429,6 +461,18 @@ Nina Gerber, Paul Gerber, and Melanie Volkamer.
 \newblock \emph{Computers \& Security}, 77:\penalty0 226--261, August 2018.
 \newblock ISSN 0167-4048.
 \newblock \doi{10.1016/j.cose.2018.04.002}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[Gold(2011)]{goldReviewPredictingChanging2011}
+Gregg Gold.
+\newblock Review of {{Predicting}} and {{Changing Behavior}}: {{The Reasoned
+  Action Approach}}.
+\newblock \emph{Journal of Social Psychology - J SOC PSYCHOL}, 151:\penalty0
+  382--385, April 2011.
+\newblock \doi{10.1080/00224545.2011.563209}.
 
 \end{LTRbibitems}
 
@@ -664,6 +708,17 @@ Michael~J. Madison, Madelyn~Rose Sanfilippo, and Brett~M. Frischmann.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem[M{\"a}ih{\"a}niemi(2020)]{maihaniemiCompetitionLawBig2020}
+Beata M{\"a}ih{\"a}niemi.
+\newblock \emph{Competition {{Law}} and {{Big Data}}: {{Imposing Access}} to
+  {{Information}} in {{Digital Markets}}}.
+\newblock {Edward Elgar Publishing}, February 2020.
+\newblock ISBN 978-1-78897-426-4.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem[Malhotra et~al.(2004)Malhotra, Kim, and
   Agarwal]{malhotraInternetUsersInformation2004}
 Naresh~K. Malhotra, Sung~S. Kim, and James Agarwal.
@@ -673,19 +728,6 @@ Naresh~K. Malhotra, Sung~S. Kim, and James Agarwal.
   336--355, December 2004.
 \newblock ISSN 1047-7047.
 \newblock \doi{10.1287/isre.1040.0032}.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem[Malhotra(2008)]{malhotraCompletionTimeResponse2008}
-Neil Malhotra.
-\newblock Completion {{Time}} and {{Response Order Effects}} in {{Web
-  Surveys}}.
-\newblock \emph{Public Opinion Quarterly}, 72\penalty0 (5):\penalty0 914--934,
-  December 2008.
-\newblock ISSN 0033-362X.
-\newblock \doi{10.1093/poq/nfn050}.
 
 \end{LTRbibitems}
 
