@@ -20,25 +20,25 @@
 \contentsline {subsection}{\numberline {3-2-5}تعریف نظری متغیر جهت‌گیری ارزش اجتماعی}{20}{subsection.3.2.5}%
 \contentsline {subsection}{\numberline {3-2-6}تعریف عملیاتی متغیر جهت‌گیری ارزش اجتماعی}{21}{subsection.3.2.6}%
 \contentsline {subsection}{\numberline {3-2-7}تعریف نظری متغیر تصمیم گیری به اشتراک گذاری اطلاعات خصوصی دیگران}{26}{subsection.3.2.7}%
-\contentsline {subsection}{\numberline {3-2-8}تعریف عملیاتی متغیر تصمیم گیری به اشتراک گذاری اطلاعات خصوصی دیگران}{27}{subsection.3.2.8}%
+\contentsline {subsection}{\numberline {3-2-8}تعریف عملیاتی متغیر تصمیم گیری به اشتراک گذاری اطلاعات خصوصی دیگران}{26}{subsection.3.2.8}%
 \contentsline {subsection}{\numberline {3-2-9}تعریف نظری متغیر سه‌گانه تاریک}{27}{subsection.3.2.9}%
 \contentsline {subsection}{\numberline {3-2-10}تعریف عملیاتی سه گانه تاریک}{28}{subsection.3.2.10}%
 \contentsline {section}{\numberline {3-3}جامعه آماری و روش نمونه‌گیری}{29}{section.3.3}%
 \contentsline {subsection}{\numberline {3-3-1}روش اجرا و مراحل آزمایش}{29}{subsection.3.3.1}%
-\contentsline {chapter}{\numberline {4}نتایج}{32}{chapter.4}%
-\contentsline {section}{\numberline {4-1}پیش پردازش داده و نتایج اولیه}{32}{section.4.1}%
-\contentsline {section}{\numberline {4-2}ویژگی‌های نمونه}{33}{section.4.2}%
-\contentsline {section}{\numberline {4-3}پرسشنامه اطلاعات دموگرافیک}{33}{section.4.3}%
-\contentsline {section}{\numberline {4-4}نتایج آزمون جهت‌گیری ارزش اجتماعی}{47}{section.4.4}%
-\contentsline {section}{\numberline {4-5}تغییر در رفتار \!(قبل و بعد از پرسشنامه دموگرافیک و سه‌گانه‌تاریک و تحت تاثیر تطمیع )}{49}{section.4.5}%
-\contentsline {section}{\numberline {4-6}نتایج آزمون‌های آماری سه‌گانه‌تاریک و رویکرد‌ارزش‌اجتماعی}{49}{section.4.6}%
+\contentsline {chapter}{\numberline {4}نتایج}{33}{chapter.4}%
+\contentsline {section}{\numberline {4-1}پیش پردازش داده و نتایج اولیه}{33}{section.4.1}%
+\contentsline {section}{\numberline {4-2}ویژگی‌های نمونه}{34}{section.4.2}%
+\contentsline {section}{\numberline {4-3}پرسشنامه اطلاعات دموگرافیک}{35}{section.4.3}%
+\contentsline {section}{\numberline {4-4}نتایج آزمون جهت‌گیری ارزش اجتماعی}{48}{section.4.4}%
+\contentsline {section}{\numberline {4-5}تغییر در رفتار \!(قبل و بعد از پرسشنامه دموگرافیک و سه‌گانه‌تاریک و تحت تاثیر تطمیع )}{48}{section.4.5}%
+\contentsline {section}{\numberline {4-6}نتایج آزمون‌های آماری سه‌گانه‌تاریک و رویکرد‌ارزش‌اجتماعی}{52}{section.4.6}%
 \contentsline {section}{\numberline {4-7}نمره سه‌گانه تاریک در زنان و مردان}{56}{section.4.7}%
-\contentsline {chapter}{\numberline {5}بحث و نتیجه‌گیری}{57}{chapter.5}%
-\contentsline {section}{\numberline {5-1}بررسی رفتارهای مشاهده شده }{57}{section.5.1}%
-\contentsline {section}{\numberline {5-2}نتایج مربوط به سه‌گانه تاریک}{57}{section.5.2}%
-\contentsline {section}{\numberline {5-3} نتایج مربوط به \lr {SVO} }{58}{section.5.3}%
-\contentsline {section}{\numberline {5-4}محدودیت‌ها}{58}{section.5.4}%
-\contentsline {section}{\numberline {5-5}پیشنهادها}{59}{section.5.5}%
-\contentsline {chapter}{مراجع}{60}{chapter*.9}%
+\contentsline {chapter}{\numberline {5}بحث و نتیجه‌گیری}{58}{chapter.5}%
+\contentsline {section}{\numberline {5-1}بررسی رفتارهای مشاهده شده }{58}{section.5.1}%
+\contentsline {section}{\numberline {5-2}نتایج مربوط به سه‌گانه تاریک}{58}{section.5.2}%
+\contentsline {section}{\numberline {5-3} نتایج مربوط به \lr {SVO} }{59}{section.5.3}%
+\contentsline {section}{\numberline {5-4}محدودیت‌ها}{59}{section.5.4}%
+\contentsline {section}{\numberline {5-5}پیشنهادها}{60}{section.5.5}%
+\contentsline {chapter}{مراجع}{61}{chapter*.9}%
 \contentsline {chapter}{واژه نامه فارسی به انگلیسی}{اول}{chapter*.9}%
 \contentsline {chapter}{واژه نامه انگلیسی به فارسی}{دوم}{chapter*.9}%

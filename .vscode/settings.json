@@ -303,6 +303,6 @@
   "editor.stickyScroll.enabled": true,
   "editor.minimap.size": "fill",
   "editor.minimap.showSlider": "always",
-  "workbench.activityBar.visible": false,
+  "workbench.activityBar.visible": true,
   "python.formatting.provider": "autopep8"
 }
