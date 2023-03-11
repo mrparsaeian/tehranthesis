@@ -28,11 +28,11 @@
 \contentsline {chapter}{\numberline {4}نتایج}{33}{chapter.4}%
 \contentsline {section}{\numberline {4-1}پیش پردازش داده و نتایج اولیه}{33}{section.4.1}%
 \contentsline {section}{\numberline {4-2}ویژگی‌های نمونه}{34}{section.4.2}%
-\contentsline {section}{\numberline {4-3}پرسشنامه اطلاعات دموگرافیک}{35}{section.4.3}%
-\contentsline {section}{\numberline {4-4}نتایج آزمون جهت‌گیری ارزش اجتماعی}{48}{section.4.4}%
-\contentsline {section}{\numberline {4-5}تغییر در رفتار \!(قبل و بعد از پرسشنامه دموگرافیک و سه‌گانه‌تاریک و تحت تاثیر تطمیع )}{48}{section.4.5}%
-\contentsline {section}{\numberline {4-6}نتایج آزمون‌های آماری سه‌گانه‌تاریک و رویکرد‌ارزش‌اجتماعی}{52}{section.4.6}%
-\contentsline {section}{\numberline {4-7}نمره سه‌گانه تاریک در زنان و مردان}{56}{section.4.7}%
+\contentsline {section}{\numberline {4-3}پرسشنامه اطلاعات دموگرافیک}{38}{section.4.3}%
+\contentsline {section}{\numberline {4-4}نتایج آزمون جهت‌گیری ارزش اجتماعی}{38}{section.4.4}%
+\contentsline {section}{\numberline {4-5}تغییر در رفتار \!(قبل و بعد از پرسشنامه دموگرافیک و سه‌گانه‌تاریک و تحت تاثیر تطمیع )}{49}{section.4.5}%
+\contentsline {section}{\numberline {4-6}نتایج آزمون‌های آماری سه‌گانه‌تاریک و رویکرد‌ارزش‌اجتماعی}{51}{section.4.6}%
+\contentsline {section}{\numberline {4-7}نمره سه‌گانه تاریک در زنان و مردان}{51}{section.4.7}%
 \contentsline {chapter}{\numberline {5}بحث و نتیجه‌گیری}{58}{chapter.5}%
 \contentsline {section}{\numberline {5-1}بررسی رفتارهای مشاهده شده }{58}{section.5.1}%
 \contentsline {section}{\numberline {5-2}نتایج مربوط به سه‌گانه تاریک}{58}{section.5.2}%
