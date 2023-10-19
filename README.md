@@ -1,4 +1,4 @@
-# tehran-thesis
+# Mohamad Rasoul  Parsaeian
 LaTeX for MSc theses of University of Tehran.
 <div dir=rtl>
 
